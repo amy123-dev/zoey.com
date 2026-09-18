@@ -1,0 +1,3842 @@
+{
+ "real": [
+  {
+   "id": "s2-real-1-1",
+   "lesson": 1,
+   "en": "Hi—you must be John's cousin Matt, right? From San Diego?",
+   "zh": "嗨，你一定是约翰的表弟马特吧？从圣地亚哥来的？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-1-2",
+   "lesson": 1,
+   "en": "Correct! I just got in last night.",
+   "zh": "没错！我昨晚刚到。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-1-3",
+   "lesson": 1,
+   "en": "That sounds awesome. How long are you staying?",
+   "zh": "听起来太棒了。你准备待多久？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-1-4",
+   "lesson": 1,
+   "en": "I'm looking forward to hearing what John has in store for me.",
+   "zh": "我很期待听听约翰为我安排了什么。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-passage-s2-l1-b7",
+   "lesson": 1,
+   "en": "I'm Todd, John's roommate from Tech. Glad to meet you. I can assure you that I'm not anything like what John has told you.",
+   "zh": "T:我是托德,约翰的科技系室友。很高兴见到你。 我可以向你保证,我可不像约翰跟你说的那样。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l1-b7"
+  },
+  {
+   "id": "s2-passage-s2-l1-b9",
+   "lesson": 1,
+   "en": "I'm happy to meet you, too—and, yes—I have heard about you! Football player and party animal extraordinaire.",
+   "zh": "M:我也很高兴见到你。是的,我听说过你。 足球运动员兼派对狂人?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l1-b9"
+  },
+  {
+   "id": "s2-passage-s2-l1-b11",
+   "lesson": 1,
+   "en": "Football, yes—and as a matter of fact, I do like parties. But tell me more about yourself and what you do in San Diego.",
+   "zh": "T:足球,是的。 而且,事实上,我喜欢派对。但跟我多说说你本人,以及你在圣地亚哥做些什么?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l1-b11"
+  },
+  {
+   "id": "s2-passage-s2-l1-b30",
+   "lesson": 1,
+   "en": "I can assure you that I will work hard.",
+   "zh": "(我跟你保证)",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l1-b30"
+  },
+  {
+   "id": "s2-passage-s2-l1-b38",
+   "lesson": 1,
+   "en": "Well, I'm more of a surfer than a football player. You know, San Diego has a fantastic coast—and we can surf all day and then party on the beach at night.",
+   "zh": "M:嗯,我更像是个冲浪者,而不是足球运动员。 你知道吗,圣地亚哥有很棒的海岸线,我们可以整天冲浪,晚上再到沙滩上派对。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l1-b38"
+  },
+  {
+   "id": "s2-passage-s2-l1-b42",
+   "lesson": 1,
+   "en": "Well, I'll be here for two weeks. John has promised me a nonstop schedule —kind of a mix of sightseeing, meeting his friends, checking out the local scene, and hopefully camping in the mountains for a couple of days.",
+   "zh": "M:嗯,我将待两个星期。 约翰已经答应我安排一个不间断的日程,大概包括观光、结识他的朋友、体验当地风情,还有希望在山里露营 几天。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l1-b42"
+  },
+  {
+   "id": "s2-passage-s2-l1-b44",
+   "lesson": 1,
+   "en": "John's a good guy—and you can be sure he knows the local scene. He knows everybody in town. I'm sure he'll show you a great time. And his friends are here to help.",
+   "zh": "T:约翰是个好人。而且他肯定很熟悉当地的风土人情。 他认识镇上每个人。我肯定他会让你玩得开心的。 他的朋友们会来帮忙的。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l1-b44"
+  },
+  {
+   "id": "s2-passage-s2-l1-b64",
+   "lesson": 1,
+   "en": "Thanks so much—I really appreciate that. I'm still a bit jet- lagged at the moment but I should be in good shape by tomorrow. I'm looking forward to hearing what John has in store for me....",
+   "zh": "M:非常感谢。我真的很感激。 我现在还有点时差反应,但明天应该就能恢复好了。我期待着听听约翰为我安排了什么。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l1-b64"
+  },
+  {
+   "id": "s2-passage-s2-l1-b66",
+   "lesson": 1,
+   "en": "Don't worry . We'll all take good care of you. And don't be surprised if we show up on your doorstep in San Diego one day, ready for surfing!",
+   "zh": "T:别担心,我们会好好照顾你的。 别惊讶,有一天我们可能会突然出现在你圣地亚哥的家门口,准备去冲浪。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l1-b66"
+  },
+  {
+   "id": "s2-real-2-1",
+   "lesson": 2,
+   "en": "I'm so glad to meet you in person.",
+   "zh": "很高兴当面见到你。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-2-2",
+   "lesson": 2,
+   "en": "We have a lot in common.",
+   "zh": "我们有很多共同点。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-2-3",
+   "lesson": 2,
+   "en": "I'd love to grab a bite before it gets too late.",
+   "zh": "我想趁还没太晚先吃点东西。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-2-4",
+   "lesson": 2,
+   "en": "To be honest with you, I really can't stand that dark color on the walls.",
+   "zh": "说实话，我真的受不了墙上那种暗沉的颜色。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-passage-s2-l2-b4",
+   "lesson": 2,
+   "en": "Hi—you must be Sarah. I can tell from your picture. I'm Lauren. Finally we meet! So we're going to be roomies this semester!",
+   "zh": "你好👋,你一定是",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b4"
+  },
+  {
+   "id": "s2-passage-s2-l2-b6",
+   "lesson": 2,
+   "en": "Yes, I recognize you from your photo, too! I'm so glad to meet you in person-and I see from your T-shirt that you like baseball. I'm a big fan, too!",
+   "zh": "是的,我也能在照片上认出你!我非常开心当面遇见你。从你穿的T体桖衫看出你喜欢棒球,我也是球迷!",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b6"
+  },
+  {
+   "id": "s2-passage-s2-l2-b8",
+   "lesson": 2,
+   "en": "Well, the T-shirt was a going -away present from my brother, who's baseball player. Look on the back-it has a photo of all the players on his team. They actually won the city championship this summer.",
+   "zh": "嗯,这件体桖是我哥哥的离别礼物,他是棒球运动员。看这件体桖的后面,有他们全员的合照。这个夏天他们赢得了市里的锦标赛。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b8"
+  },
+  {
+   "id": "s2-passage-s2-l2-b10",
+   "lesson": 2,
+   "en": "That's awesome. I tell you, I'm not very athletic, but I love to watch baseball, even if it's a Little League game. You could say I'm a professional spectator. What about you, do you play a sport?",
+   "zh": "太酷了。告诉你,我没有什么运动细胞,但是我喜欢看棒球,即使是联盟比赛。你可以说我是专业的观察员。你呢,你玩什么运动呢?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b10"
+  },
+  {
+   "id": "s2-passage-s2-l2-b22",
+   "lesson": 2,
+   "en": "Yes, I play tennis. As a matter of fact, I have a scholarship, and I'm going to play for the university. Now tell me, what else do you like to do?",
+   "zh": "是的,我玩网球。事实上,我有奖学金,并且我打算大学也玩。现在告诉我,你还喜欢什么?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b22"
+  },
+  {
+   "id": "s2-passage-s2-l2-b24",
+   "lesson": 2,
+   "en": "Well-what I like to do best is dance. I'm studying classical ballet, but I also like to dance to popular music.",
+   "zh": "嗯,我最喜欢跳舞。我正在学习古典芭蕾,但是我也喜欢跳流行音乐",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b24"
+  },
+  {
+   "id": "s2-passage-s2-l2-b26",
+   "lesson": 2,
+   "en": "Cool. We have a lot in common. I like to dance, too. Think you'll be up for checking out the local clubs this weekend?",
+   "zh": "太酷了,我们有许多相同的地方。我也喜欢跳舞。你考虑这周末去打卡当地的俱乐部吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b26"
+  },
+  {
+   "id": "s2-passage-s2-l2-b28",
+   "lesson": 2,
+   "en": "Oh, yeah. And the restaurants, too. Speaking of which-are you hungry? I'd love to grab a bite before it gets too late. I'm starving!",
+   "zh": "可以。餐馆也是,说到这,你饿了吗?在太晚之前我想吃点东西,我太饿了!",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b28"
+  },
+  {
+   "id": "s2-passage-s2-l2-b30",
+   "lesson": 2,
+   "en": "Are you kidding me ? I'm always up for going out! How about trying the place up the street? I'm kind of hungry for a good hamburger.",
+   "zh": "你在开玩笑吗?我总是准备好外出!尝试这条街尽头怎么样?我有点喜欢汉堡",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b30"
+  },
+  {
+   "id": "s2-passage-s2-l2-b45",
+   "lesson": 2,
+   "en": "Lauren, what do you think of our room?",
+   "zh": "啦润,你觉得我们的房间怎么样?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b45"
+  },
+  {
+   "id": "s2-passage-s2-l2-b47",
+   "lesson": 2,
+   "en": "To be honest with you, I really can't stand that dark color on the walls. It's, like, really depressing. I prefer light colors. Plus, I'd like to change the rug and bedspreads. Do you like them?",
+   "zh": "实话实说,我实在不理解墙上的暗沉色,它看起来很压抑。我比较喜欢亮色。另外,我想要换掉地毯和床罩,你喜欢他们吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b47"
+  },
+  {
+   "id": "s2-passage-s2-l2-b49",
+   "lesson": 2,
+   "en": "No, I agree with you. They're horrible. With a couple of coats of paint and a few small changes, we'll make this room comfortable and cozy. Everybody will want to hang out here.",
+   "zh": "是的,我和你一样。他们太糟了。涂几层漆和一些改变,这个房间将变得舒服起来。每个人都想来这。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b49"
+  },
+  {
+   "id": "s2-passage-s2-l2-b51",
+   "lesson": 2,
+   "en": "Man, I'm so relieved! I think we're really going to get along. I'm going to call my mom right now and tell her how cool my new roomie is.",
+   "zh": "人,我如释重负!我认为我们能相处的很好。我将给我妈妈打电话📲并告诉她我的室友太酷了!",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b51"
+  },
+  {
+   "id": "s2-passage-s2-l2-b54",
+   "lesson": 2,
+   "en": "Can't stand sb./sth: means cannot tolerate someone or something.",
+   "zh": "床被:",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l2-b54"
+  },
+  {
+   "id": "s2-real-3-1",
+   "lesson": 3,
+   "en": "Well, if you have all day, I'll describe him to you.",
+   "zh": "好吧，如果你有一整天的时间，我就给你讲讲他。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-3-2",
+   "lesson": 3,
+   "en": "But basically, do you get along with him?",
+   "zh": "不过总的来说，你跟他相处得来吗？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-3-3",
+   "lesson": 3,
+   "en": "Then at least he doesn't leave a mess in the kitchen.",
+   "zh": "那至少他不会把厨房弄得一团糟。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-3-4",
+   "lesson": 3,
+   "en": "No wonder you're getting along so well.",
+   "zh": "难怪你们相处得这么好。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-passage-s2-l3-b4",
+   "lesson": 3,
+   "en": "So, Michael, what's your new roommate like?",
+   "zh": "那么,迈克尔,你新室友怎么样?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l3-b4"
+  },
+  {
+   "id": "s2-passage-s2-l3-b6",
+   "lesson": 3,
+   "en": "Well, if you have all day, I'll describe him to you. He's quite the character.",
+   "zh": "好吧,如果整天的时间,我就给你描述一下他(一言难尽),他可真是个有趣(个性)的人",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l3-b6"
+  },
+  {
+   "id": "s2-passage-s2-l3-b8",
+   "lesson": 3,
+   "en": "I don't have all day,dude. But basically, do you get along with him?",
+   "zh": "我没整天时间陪你,兄弟。但总的来说,你们相处得来吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l3-b8"
+  },
+  {
+   "id": "s2-passage-s2-l3-b10",
+   "lesson": 3,
+   "en": "Actually, yeah, but that's only because we hardly ever see each other. The guy sleeps all day. Sometimes he gets up to go to his classes, and then he comes back to the room and goes back to bed. Then he'll get up at midnight and study all night.",
+   "zh": "实际上,是的,但那只是因为我们几乎从不碰面。这家伙整天睡觉😴。有时他起床只是为了去上课,然后回到房间躺回床上。然后他会早午夜起床,通宵学习",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l3-b10"
+  },
+  {
+   "id": "s2-passage-s2-l3-b23",
+   "lesson": 3,
+   "en": "Really? You don't eat together then?",
+   "zh": "真的吗?那你们不一起吃饭吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l3-b23"
+  },
+  {
+   "id": "s2-passage-s2-l3-b25",
+   "lesson": 3,
+   "en": "The truth is ,I don't even know when he eats or where.",
+   "zh": "事实上,我甚至不知道他什么时候吃饭,或者在哪里吃",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l3-b25"
+  },
+  {
+   "id": "s2-passage-s2-l3-b29",
+   "lesson": 3,
+   "en": "No, the guy is incredibly neat. He actually leaves the bathroom clean every day. And he doesn't seem to have dirty clothes. He's like a ghost.",
+   "zh": "不,那个人非常整洁。他实际上每天都会把玉石收拾得干干净净。而且他似乎没有脏衣服。他就象个幽灵👻",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l3-b29"
+  },
+  {
+   "id": "s2-passage-s2-l3-b31",
+   "lesson": 3,
+   "en": "Man, I think you have the perfect roommate.",
+   "zh": "天啊,我觉得你有个完美的室友",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l3-b31"
+  },
+  {
+   "id": "s2-passage-s2-l3-b33",
+   "lesson": 3,
+   "en": "What about yours?",
+   "zh": "你的呢?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l3-b33"
+  },
+  {
+   "id": "s2-passage-s2-l3-b47",
+   "lesson": 3,
+   "en": "Well, he's the exact opposite of yours. We're a lot alike and we're together a lot. I mean, we have two classes together and we're in the same fraternity , so we're really good friends.",
+   "zh": "嗯,他和你的室友恰恰相反。我们很像,经常见面。我的意思是,我们有两门课在一起,还同属一个兄弟会,所以关系非常好。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l3-b47"
+  },
+  {
+   "id": "s2-passage-s2-l3-b49",
+   "lesson": 3,
+   "en": "Sounds to me like you have the ideal roommate.",
+   "zh": "听你这么说,你好像有个理想的室友。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l3-b49"
+  },
+  {
+   "id": "s2-passage-s2-l3-b51",
+   "lesson": 3,
+   "en": "Well, yes and no. Mine is a disaster in the house. In the first place. he always leaves a mess in the kitchen. He doesn't wash the dishes or take out the trash. Plus, he throws his clothes all over the place, not to mention how he leaves the bathroom.",
+   "zh": "嗯,是又不是。我的房间一团糟。首先,他总是在厨房里留下一堆乱糟糟的东西。 他从不洗碗,也不到垃圾。而且,他把衣服到处乱扔,更别提他把浴室弄得怎么样了。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l3-b51"
+  },
+  {
+   "id": "s2-passage-s2-l3-b54",
+   "lesson": 3,
+   "en": "Come on, Eric. He sounds a lot like you. No wonder you're getting along so well.",
+   "zh": "拜托,埃里克。他听起来很像你。难怪你们相处得这么好。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l3-b54"
+  },
+  {
+   "id": "s2-real-4-1",
+   "lesson": 4,
+   "en": "I haven't seen you for ages.",
+   "zh": "好久没见到你了。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-4-2",
+   "lesson": 4,
+   "en": "Do you have time for a cup of coffee?",
+   "zh": "你有空喝杯咖啡吗？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-4-3",
+   "lesson": 4,
+   "en": "We really need to catch up.",
+   "zh": "我们真得好好叙叙旧了。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-4-4",
+   "lesson": 4,
+   "en": "Let's make sure we get together more often.",
+   "zh": "以后我们一定要常聚聚。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-passage-s2-l4-b5",
+   "lesson": 4,
+   "en": "Nicole, fancy running into you here.Do you have time for a cup of coffee?",
+   "zh": "妮可,真没想到在这碰到你。你有时间喝杯咖啡吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b5"
+  },
+  {
+   "id": "s2-passage-s2-l4-b7",
+   "lesson": 4,
+   "en": "Sure. We really need to catch up. Do you work around here?",
+   "zh": "当然了。我们真的得好好聊聊了(叙旧)。你在这附近工作吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b7"
+  },
+  {
+   "id": "s2-passage-s2-l4-b11",
+   "lesson": 4,
+   "en": "Oh, I love that shop. Their clothes are so trendy and different from the run of the mill. You look fantastic. I'll bet their sales have gone up since you started working there.",
+   "zh": "哦,我太喜欢那家店了。他们的衣服太时髦了,跟那些普通款式完全不同。你看起来棒极了。我敢打赌,自从你在哪里工作后,他们的销售一定上升了。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b11"
+  },
+  {
+   "id": "s2-passage-s2-l4-b15",
+   "lesson": 4,
+   "en": "Good for you. And I think the idea of becoming a buyer is great. Before you know it, you'll be working on your own designs. I remember how you used to dream of being a fashion designer",
+   "zh": "不错,为你高兴。而且我觉得成为采购员这个想法很棒。不知不觉间,你就会开始独立设计了。我姐的你以前一直梦想当一名时装设计师。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b15"
+  },
+  {
+   "id": "s2-passage-s2-l4-b33",
+   "lesson": 4,
+   "en": "As a matter of fact , I just got back a couple of months ago. I'm glad I went because now I know I really want to be here. I'm working as a waitress tight now, but I'm hoping to get a teaching job. I've applied to most of the local school districts, so I have my fingers crossed I'll get something this fall.",
+   "zh": "事实上,我姐个月才回来。我很高兴我来了,因为现在我知道我真的想留在这里。 我现在在做服务员,但希望找到一份教学工作。我已经申请了大部分本地学区的职位,所以希望这个秋天能有好消息。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b33"
+  },
+  {
+   "id": "s2-passage-s2-l4-b35",
+   "lesson": 4,
+   "en": "What do you want to teach? I've heard there are openings for high school teachers in Howard County.",
+   "zh": "你想教什么?我听说霍华德县的告终有教师职位空缺。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b35"
+  },
+  {
+   "id": "s2-passage-s2-l4-b37",
+   "lesson": 4,
+   "en": "No way. I haven't even applied there. I'll do it as soon as I get home. Man, that'll be awesome if they need a biology teacher. Thanks for the tip. Which reminds me ,waiting tables isn't all bad. On weekends I get pretty good tips.",
+   "zh": "不可能,我甚至还没申请那里呢、我一回家就做。天啊,如果他们需要生物老师的话,那可太棒了。谢谢你的建议。这倒是提醒了我,当服务员并不是全然不好。周末的时候,我的小费挣得还不错",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b37"
+  },
+  {
+   "id": "s2-passage-s2-l4-b39",
+   "lesson": 4,
+   "en": "And banking on the info you just gave me, I think I'll follow you back to work and splurge on a new dress.",
+   "zh": "而且根据你刚才告诉我的信息,我想我会跟着你回店里,给自己买条新裙子。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b39"
+  },
+  {
+   "id": "s2-passage-s2-l4-b41",
+   "lesson": 4,
+   "en": "Great, I already have in mind some things for you to try on.",
+   "zh": "太好了,我脑子里已经想好了一些东西让你试穿。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b41"
+  },
+  {
+   "id": "s2-passage-s2-l4-b44",
+   "lesson": 4,
+   "en": "Wow, I love this one. I guess I'm getting ahead of myself, but I have a feeling this is just what I need for the interview with the principal.",
+   "zh": "哇,我超喜欢这个,我想我有点太着急了,但我感觉这件衣服正式我见校长面试时所需要的。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b44"
+  },
+  {
+   "id": "s2-passage-s2-l4-b51",
+   "lesson": 4,
+   "en": "Thanks so much for your help. Now I'm really pumped. I'm so happy I ran into you today.",
+   "zh": "非常感谢你的帮助,我现在真的充满干劲了。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b51"
+  },
+  {
+   "id": "s2-passage-s2-l4-b53",
+   "lesson": 4,
+   "en": "Me too. Let's make sure we get together more often.",
+   "zh": "我也是。让我们确保以后多聚一聚。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b53"
+  },
+  {
+   "id": "s2-passage-s2-l4-b55",
+   "lesson": 4,
+   "en": "Yeah, I promise I'll keep in touch.",
+   "zh": "是的,我保证会保持联系。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b55"
+  },
+  {
+   "id": "s2-passage-s2-l4-b57",
+   "lesson": 4,
+   "en": "Take care, and let me know what happens. Bye for now.",
+   "zh": "保重,别忘了告诉我结果。再见了。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b57"
+  },
+  {
+   "id": "s2-passage-s2-l4-b59",
+   "lesson": 4,
+   "en": "Bye, and thanks again.",
+   "zh": "再见,再次感谢。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l4-b59"
+  },
+  {
+   "id": "s2-real-5-1",
+   "lesson": 5,
+   "en": "I'd like to make an appointment to see Dr. Sharpe, hopefully next week.",
+   "zh": "我想预约见夏普医生，希望能约在下周。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-5-2",
+   "lesson": 5,
+   "en": "How can I help you?",
+   "zh": "有什么我可以帮您的吗？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-5-3",
+   "lesson": 5,
+   "en": "What can I do for you?",
+   "zh": "我能为您做些什么？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-5-4",
+   "lesson": 5,
+   "en": "I need a complete physical.",
+   "zh": "我需要做一次全面体检。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-passage-s2-l5-b4",
+   "lesson": 5,
+   "en": "Drs.Manning and Sharpe, how can I help you ? What can I do for you?",
+   "zh": "曼宁和夏普教授,我能帮您做什么?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b4"
+  },
+  {
+   "id": "s2-passage-s2-l5-b6",
+   "lesson": 5,
+   "en": "Hello,my name is Lisa Peterson. I'd like to make an appointment to see Dr.Sharpe, hopefully sometime next week.",
+   "zh": "你好,我叫丽莎彼得森,我想预约见夏普医生,希望下周能见到。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b6"
+  },
+  {
+   "id": "s2-passage-s2-l5-b8",
+   "lesson": 5,
+   "en": "And what is it you want to see him about?",
+   "zh": "你找他有什么事?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b8"
+  },
+  {
+   "id": "s2-passage-s2-l5-b10",
+   "lesson": 5,
+   "en": "I need a complete physical for a new job I'm about to take.",
+   "zh": "我需要为即将开始的新工作做全面体检。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b10"
+  },
+  {
+   "id": "s2-passage-s2-l5-b12",
+   "lesson": 5,
+   "en": "Do you have a form that has to be filled out?",
+   "zh": "你有需要填写的表格吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b12"
+  },
+  {
+   "id": "s2-passage-s2-l5-b14",
+   "lesson": 5,
+   "en": "Yes, I do. And it looks like I'll need a pretty thorough exam.",
+   "zh": "是的,看起来我需要做一次相当全面的检查",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b14"
+  },
+  {
+   "id": "s2-passage-s2-l5-b19",
+   "lesson": 5,
+   "en": "Can you fax it to me ? That way I'll know how much time to allot for your appointment.",
+   "zh": "你能传真给我吗?这样我就能知道该给你预约多少时间",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b19"
+  },
+  {
+   "id": "s2-passage-s2-l5-b22",
+   "lesson": 5,
+   "en": "Can you give me your fax number?",
+   "zh": "当然,你能给我你的传真号码吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b22"
+  },
+  {
+   "id": "s2-passage-s2-l5-b26",
+   "lesson": 5,
+   "en": "Good. I'll fax it to you right away. Will you call me back when you get it?",
+   "zh": "好的,我马上传真给你。你拿到后会给我回电话吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b26"
+  },
+  {
+   "id": "s2-passage-s2-l5-b31",
+   "lesson": 5,
+   "en": "Hello, Lisa. This is Dr.Sharpe's office. I see you're going to need an hour - long appointment, and Dr.Sharpe won't able to do that for at least another month. I could give you an appointment with Dr.Manning at Thursday, though, at 1 p.m. Would you like to take that?",
+   "zh": "你好,丽莎。这是夏普医生的办公室。我看你需要一个小时的预约,而夏普医生至少还要一个月才能做到。不过我可以帮你预约下周四下午1点见曼宁医生。你可以接受吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b31"
+  },
+  {
+   "id": "s2-passage-s2-l5-b33",
+   "lesson": 5,
+   "en": "Um, yes, that sounds fine. Is there anything I should do to prepare for the exam?",
+   "zh": "嗯,听起来不错。我应该做些什么来准备检查吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b33"
+  },
+  {
+   "id": "s2-passage-s2-l5-b35",
+   "lesson": 5,
+   "en": "Yes, I know this will be difficult , but you mustn't eat or drink anything after midnight the night before. I wish I could give you an appoinment earlier in the day, but we don't have any other openings.",
+   "zh": "是的,我知道这很难,但你前一晚午夜后不能吃喝任何东西。我真希望能早点给你预约,但我们没有其他空位",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b35"
+  },
+  {
+   "id": "s2-passage-s2-l5-b61",
+   "lesson": 5,
+   "en": "Ok, but if there is a cancellation earlier in the day, please let me know. I'd much rather comoe in early in the morning.",
+   "zh": "好的,但如果当天早些时候有取消,请告诉我。我更愿意一大早来。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b61"
+  },
+  {
+   "id": "s2-passage-s2-l5-b65",
+   "lesson": 5,
+   "en": "Thanks very much. Goodbye.",
+   "zh": "非常感谢.再见",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b65"
+  },
+  {
+   "id": "s2-passage-s2-l5-b70",
+   "lesson": 5,
+   "en": "No problem. How about Friday at 12 30?",
+   "zh": "没问题。周五12 30怎么样?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b70"
+  },
+  {
+   "id": "s2-passage-s2-l5-b72",
+   "lesson": 5,
+   "en": "Oh, dear, I can't do that, either. Could you do Can I have... Wednesday?",
+   "zh": "哦,亲爱的,我做不到。周三怎么样?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b72"
+  },
+  {
+   "id": "s2-passage-s2-l5-b74",
+   "lesson": 5,
+   "en": "Look, we're going to have to make it the following week. We're both got too much on our plates right now. Let's say Thursday, the twenty fourth ,at one o'clock. Ok?",
+   "zh": "看,我们得把时间改到下周了。现在我们两个太忙了,要么,就定在24号星期四下午一点怎么样?可以吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b74"
+  },
+  {
+   "id": "s2-passage-s2-l5-b76",
+   "lesson": 5,
+   "en": "Perfect. We'll have a lot to talk about by then!",
+   "zh": "太好了。到时候我们有很多话题可以聊",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l5-b76"
+  },
+  {
+   "id": "s2-real-6-1",
+   "lesson": 6,
+   "en": "What's your go-to drink at Starbucks?",
+   "zh": "你去星巴克通常点什么饮料？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-6-2",
+   "lesson": 6,
+   "en": "Mind if I join you?",
+   "zh": "介意我加入吗？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-6-3",
+   "lesson": 6,
+   "en": "Just give me a heads-up if you need a ride.",
+   "zh": "如果需要搭车，提前告诉我一声。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-6-4",
+   "lesson": 6,
+   "en": "Do you want pizza or pasta? Make up your mind!",
+   "zh": "你要披萨还是意大利面？快决定吧！",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-passage-s2-l6-b4",
+   "lesson": 6,
+   "en": "Good morning! How can I help you?",
+   "zh": "早上好,我有什么可以帮助你的吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b4"
+  },
+  {
+   "id": "s2-passage-s2-l6-b6",
+   "lesson": 6,
+   "en": "I'd like to rent an apartment in this neighborhood and wonder if you can help me.",
+   "zh": "我想要在这片区域租房子,想要知道你能否帮助我",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b6"
+  },
+  {
+   "id": "s2-passage-s2-l6-b8",
+   "lesson": 6,
+   "en": "You need to talk toShirley-she's our go-to agent for apartment rentals. Here, I'll take you to her office.",
+   "zh": "你需要和雪莉谈谈,她是我们公寓租赁的首选经纪人",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b8"
+  },
+  {
+   "id": "s2-passage-s2-l6-b10",
+   "lesson": 6,
+   "en": "Hello, I'm Shirley. Have a seat and tell me what kind of apartment you're looking for. Is this just for you?",
+   "zh": "你好,我是雪莉。请坐,你想找什么样的公寓,这只是为了你吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b10"
+  },
+  {
+   "id": "s2-passage-s2-l6-b12",
+   "lesson": 6,
+   "en": "Well, that depends on what's available. I'd really rather live alone, but if I don't see anything that works, I could share a bigger place with a friend of mine.",
+   "zh": "这得看有哪些资源。我想一个人住,但是找不到的话,我可以和我朋友一起住。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b12"
+  },
+  {
+   "id": "s2-passage-s2-l6-b23",
+   "lesson": 6,
+   "en": "Ok. First, tell me what you have in mind.",
+   "zh": "好的,首先,告诉我你的想法",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b23"
+  },
+  {
+   "id": "s2-passage-s2-l6-b25",
+   "lesson": 6,
+   "en": "The most important thing is the location. I want yo be in the city, preferably in this neighborhood, so I can walk to the university and to the metro station. I don't have a car.",
+   "zh": "最重要的是地理位置,我想要在市中心,最好是在这个社区,这样我可以步行去大学和地铁站。我没有汽车",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b25"
+  },
+  {
+   "id": "s2-passage-s2-l6-b27",
+   "lesson": 6,
+   "en": "Ok, then you don't mind if there's no parking space.",
+   "zh": "好的,那你不在意这里没有停车场吧",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b27"
+  },
+  {
+   "id": "s2-passage-s2-l6-b29",
+   "lesson": 6,
+   "en": "Exactly. But I want a secure building. I also want it to have a living room, a dining room, one bedroom, and, of course, a modern kitchen and bathroom. I don't really need all the bells and whistles, but I would like to have a balcony.",
+   "zh": "没错,但是我想要安全的建筑。我还想要一个客厅,餐厅,卧室。当然还有一个现代化厨房和一间浴室。我其实不需要花里胡哨的设施,但是我想要一个阳台。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b29"
+  },
+  {
+   "id": "s2-passage-s2-l6-b41",
+   "lesson": 6,
+   "en": "And what is your budget? I mean, what your monthly rent are you thinking about, including utilities?",
+   "zh": "你的预算是多少?我是说,你考虑的月租是多少,包括水电费",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b41"
+  },
+  {
+   "id": "s2-passage-s2-l6-b43",
+   "lesson": 6,
+   "en": "I'm hoping to find something for about $700 a month.",
+   "zh": "我希望能找到每月700美元的地方",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b43"
+  },
+  {
+   "id": "s2-passage-s2-l6-b45",
+   "lesson": 6,
+   "en": "Look, I can tell you right now there are no decent apartments in this area under $1200 a month-and none of them have dining rooms or balconies. There are modern, secure buldings that are actually near the metro-but they're at least 6miles outside of the city.",
+   "zh": "听着,我可以 直接告诉你,这里附近没有月租低于$1200美元的公寓。而且没有餐厅或者阳台。有些现代化,安全的建筑实际上挨着地铁,但是它们离市中心至少6英里",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b45"
+  },
+  {
+   "id": "s2-passage-s2-l6-b47",
+   "lesson": 6,
+   "en": "There's no way I'm going to live way out there. Do you think you could find a two-bedroom palce closer in for, say $1400 a month? Something I could share with my friend?",
+   "zh": "我绝不会住在那么远的地方。你觉得能不能在附近找个两居室,比如每月1400美元,我可以和我朋友合租",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b47"
+  },
+  {
+   "id": "s2-passage-s2-l6-b54",
+   "lesson": 6,
+   "en": "Let me do a little research this morning and see what I can find. I'm not going to tell you that it's impossible, but I can't promise anything, either. Give me a couple of hours to see what's out there. If I find anything thwhile, we can go have a look this afternoon. In the meantime, I need you to fill out this form so I have your contact information. As a matter of fact, both you and your friend will have to fill out an application in order to be approved as tenants. I'm assuming you want a one-year lease. Is that right?Oh, one more thing: you don't have a pet,do you?",
+   "zh": "表格才能批准为租户。我想你要一年的租约,对吗?哦,还有一件事,你没有宠物吧?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b54"
+  },
+  {
+   "id": "s2-passage-s2-l6-b56",
+   "lesson": 6,
+   "en": "Yes, I'm willing to sign a one-year lease, and no, I don't have a pet. And I will make sure my friend gets rid of his dog. He can leave it with his family-they have a place in the country. I'd better go give hima head-up right now.",
+   "zh": "是的,我愿意签一年租约,并且我没有宠物。我可以确保我的朋友把他的动物处理掉。可以把它留给他的家人。他们在乡下有房子。我最好现在提醒他。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b56"
+  },
+  {
+   "id": "s2-passage-s2-l6-b63",
+   "lesson": 6,
+   "en": "Good. Be sure both of you bring your financial and credit information with you.",
+   "zh": "好的,确保你们带来你们的经济和信誉信息。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b63"
+  },
+  {
+   "id": "s2-passage-s2-l6-b65",
+   "lesson": 6,
+   "en": "Right. We'll see you at noon, then. Thank you very much.",
+   "zh": "好的。我们中午见,非常感谢。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l6-b65"
+  },
+  {
+   "id": "s2-real-7-1",
+   "lesson": 7,
+   "en": "I feel like I aced that interview, so I'm pretty sure the job is mine.",
+   "zh": "我觉得面试表现特别好，所以很有把握得到这份工作。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-7-2",
+   "lesson": 7,
+   "en": "Get lost!",
+   "zh": "走开！",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-7-3",
+   "lesson": 7,
+   "en": "I feel lost without you.",
+   "zh": "没有你，我感到不知所措。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-7-4",
+   "lesson": 7,
+   "en": "Don't lose your patience.",
+   "zh": "别失去耐心。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-passage-s2-l7-b3",
+   "lesson": 7,
+   "en": "Hey, buddy. Can I ask you a favor? Can you do me a favor?",
+   "zh": "兄弟,你能帮我一个忙吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b3"
+  },
+  {
+   "id": "s2-passage-s2-l7-b5",
+   "lesson": 7,
+   "en": "Sure. What can I do for you?",
+   "zh": "当然可以,我能帮你啥呢?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b5"
+  },
+  {
+   "id": "s2-passage-s2-l7-b7",
+   "lesson": 7,
+   "en": "I wonder if you'd be willing to lend me your biology notes? I missed a couple of classes when I was sick, and now I'm totally lost.",
+   "zh": "我想你能是否远离借我你的生物笔记,我生病的时候错过了许多课,现在完全跟不上了",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b7"
+  },
+  {
+   "id": "s2-passage-s2-l7-b11",
+   "lesson": 7,
+   "en": "Okay. Why don't we go to the library and copy my notebook, and then go to your place and go over the lessons?",
+   "zh": "好啊,为什么我们不去图书馆抄写我的笔记,然后再去你的住处复习功课",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b11"
+  },
+  {
+   "id": "s2-passage-s2-l7-b13",
+   "lesson": 7,
+   "en": "I'm acing biology this semester, so I'm sure I can get you back on track.",
+   "zh": "这学期我的生物成绩很好,所以我肯定能帮你赶上进度",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b13"
+  },
+  {
+   "id": "s2-passage-s2-l7-b16",
+   "lesson": 7,
+   "en": "Oh, man. That will be a load off my shoulders. I can't thank you enough.",
+   "zh": "哦,伙计,那会让我轻松不少,我感激不尽",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b16"
+  },
+  {
+   "id": "s2-passage-s2-l7-b37",
+   "lesson": 7,
+   "en": "Glad to help. As a matter of fact, I have a favor to ask of you.",
+   "zh": "很高兴能帮助你,事实上,我有个忙需要你的帮助",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b37"
+  },
+  {
+   "id": "s2-passage-s2-l7-b39",
+   "lesson": 7,
+   "en": "Oh, yeah? Don't tell me you need more advice about your girlfriend.",
+   "zh": "是吗?别告诉我你需要关于你女朋友的建议",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b39"
+  },
+  {
+   "id": "s2-passage-s2-l7-b41",
+   "lesson": 7,
+   "en": "Well, not exactly. It's that her sister is coming up for the weekend, and I need to find her a date.",
+   "zh": "嗯,也不完全是,是因为她的妹妹这周末要过来,我得给她找个约会对象。周六晚上你有空陪她出去吗?我们四个一起去剧院,然后出去吃饭。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b41"
+  },
+  {
+   "id": "s2-passage-s2-l7-b45",
+   "lesson": 7,
+   "en": "Look, I already agreed to go to the movies with Ben. But how about if I invite her to go to the movies with us instead?",
+   "zh": "算了,我已经答应和本出去看电影去了,但是我邀请她和我们一起看电影怎么样?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b45"
+  },
+  {
+   "id": "s2-passage-s2-l7-b47",
+   "lesson": 7,
+   "en": "Of course, afterward, we'd grab a bite to eat, but it won't be anything fancy.",
+   "zh": "当然可以,毕竟,我们随便吃点,但是不会太讲究",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b47"
+  },
+  {
+   "id": "s2-passage-s2-l7-b54",
+   "lesson": 7,
+   "en": "That sounds great to me.",
+   "zh": "对我老说再好不过了",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b54"
+  },
+  {
+   "id": "s2-passage-s2-l7-b56",
+   "lesson": 7,
+   "en": "Let me see what Jessica thinks about it, and I'll get back to you ASAP as soon as possible ).",
+   "zh": "让我看看杰西卡怎么想,我会尽快回复你",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b56"
+  },
+  {
+   "id": "s2-passage-s2-l7-b58",
+   "lesson": 7,
+   "en": "Good. And by the way, thanks again for the help with biology. I think I'm on top of it now.",
+   "zh": "很好,顺便再说一句,再次感谢你帮助我学生物。我觉得我现在已经掌握了",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b58"
+  },
+  {
+   "id": "s2-passage-s2-l7-b60",
+   "lesson": 7,
+   "en": "No problem. Don't hesitate to call me if you have any questions.",
+   "zh": "没关系,如果有任何问题,请随时给我打电话",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b60"
+  },
+  {
+   "id": "s2-passage-s2-l7-b62",
+   "lesson": 7,
+   "en": "Thanks, buddy. See you later.",
+   "zh": "谢了,兄弟,待会见",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l7-b62"
+  },
+  {
+   "id": "s2-real-8-1",
+   "lesson": 8,
+   "en": "You really know how to cheer me up.",
+   "zh": "你真懂得怎么让我振作起来。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-8-2",
+   "lesson": 8,
+   "en": "I already feel much better.",
+   "zh": "我已经感觉好多了。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-8-3",
+   "lesson": 8,
+   "en": "I care about you.",
+   "zh": "我很在乎你。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-8-4",
+   "lesson": 8,
+   "en": "You are my best friend and have been from the get-go.",
+   "zh": "你是我最好的朋友，从一开始就是。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-passage-s2-l8-b4",
+   "lesson": 8,
+   "en": "Hi,Katie. I'm calling you to cry on your shoulders. Do you mind if I come over? I really need to talk to you.",
+   "zh": "嗨,凯特,我打电话给是想在你肩上哭一场,我可以过来吗?我真的需要和你谈谈",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l8-b4"
+  },
+  {
+   "id": "s2-passage-s2-l8-b6",
+   "lesson": 8,
+   "en": "Of course I don't mind. Come over.",
+   "zh": "当然不介意了,过来我给你泡一杯茶,帕特,怎么了?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l8-b6"
+  },
+  {
+   "id": "s2-passage-s2-l8-b9",
+   "lesson": 8,
+   "en": "It's just that everything is wrong with my life. In the first place, there are so many problems at work. My boss is really out to get me. He's on my case for every little thing. Lately, I can't do anything that pleases him. Plus, he makes me so nervous that I'm beginning to make unnecessary mistakes.",
+   "zh": "只是我的生活里一切都出了问题。首先,工作上问题太多了,我的老板真的针对我。他对我吹毛求疵,连小事也不放过。最近,我做什么都无法让他满意。而且,他让我紧张的不行,已经开始犯一些不必要的错误了。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l8-b9"
+  },
+  {
+   "id": "s2-passage-s2-l8-b22",
+   "lesson": 8,
+   "en": "So , what's the reason for all that?",
+   "zh": "那所有这些的原因是什么呢?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l8-b22"
+  },
+  {
+   "id": "s2-passage-s2-l8-b24",
+   "lesson": 8,
+   "en": "It's probably because he has problems at home, but that doesn't give him the right to take it all out on me, does it?",
+   "zh": "他家里可能有麻烦,但是这并不意味着他有权把所有情绪发泄在我身上,对吧?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l8-b24"
+  },
+  {
+   "id": "s2-passage-s2-l8-b26",
+   "lesson": 8,
+   "en": "It's just the opposite. It's at work where he ought to seek a little peace so he can work out his personal problems at home. At least that's what I think.",
+   "zh": "恰恰相反,他本应在工作时寻求一点平静,以便能在家里解决自己的个人问题。至少我是这么认为的",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l8-b26"
+  },
+  {
+   "id": "s2-passage-s2-l8-b29",
+   "lesson": 8,
+   "en": "I have the impression that nobody is really happy. The situation at my house doesn't exactly cheer me up either. You know what? Those two guys I share the house with don't have a clue (don't know) about how to keep it clean. They don't lift a finger to help me.",
+   "zh": "我觉得好像没人真的快乐。我家的情况也让我提不起劲来,你知道吗?我房子的那两个家伙完全不知道怎么保持干净。他们连一根手指都不愿帮我。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l8-b29"
+  },
+  {
+   "id": "s2-passage-s2-l8-b34",
+   "lesson": 8,
+   "en": "I know you're disappointed that you didn't get better grades at school, but don't take it out on your little sister.",
+   "zh": "我知道你今天过得不好但是你别把气撒在我身上",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l8-b34"
+  },
+  {
+   "id": "s2-passage-s2-l8-b40",
+   "lesson": 8,
+   "en": "Last night, I spent two hours cleaning the kitchen while they pigged out on pizza and watched TV. I'm sick and tired of their behavior, but that's not the worst. As if that weren't enough, Brad refuses to talk to me. Like, out of the blue, he's decided he wants his space. I really feel like throwing in the towel.",
+   "zh": "昨晚我花了两个小时打扫厨房而他们却在大吃披萨看电视。我受够了他们的行为, 但这还不是最糟糕的 。更糟糕的是布拉德也不愿意和我说话,突然间他决定想要自己的空间。我真的想放弃",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l8-b40"
+  },
+  {
+   "id": "s2-passage-s2-l8-b42",
+   "lesson": 8,
+   "en": "Calm down, Pat, and let's look at one thing at a time. I don't think things are as bad as they seem right now. For a start, why don't we make a list of the positive things in your life? That way, you'll realize what your strengths are. Then we'll make a plan to begin changing the things that aren't working for you. You shouldn't let yourself get depressed.",
+   "zh": "冷静下来,帕特,我们一件一件地来处理。首先我们为什么不列个清单,写下你生活中积极的一面呢,这样你就会意识到自己的优点在哪里,然后我们将制定一个计划,开始改变那些对你不起作用的事情。你不应该让自己陷入抑郁。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l8-b42"
+  },
+  {
+   "id": "s2-passage-s2-l8-b45",
+   "lesson": 8,
+   "en": "Means: on top of that; additionally; furthermore It was a terrible date. He arrived late. He was rude to my parents. And as if that wasn't enough, he was in a bad mood the whole evening! Languages, and English in particular, are a difficult thing to learn. As if that were not bad enough, idioms make the whole thing that much harder to master.",
+   "zh": "地道表达",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l8-b45"
+  },
+  {
+   "id": "s2-passage-s2-l8-b51",
+   "lesson": 8,
+   "en": "Thanks, Katie. You know, I already feel much better. You really know how to cheer me up.",
+   "zh": "谢谢凯蒂。你知道吗,我感觉好多了。你真的太懂怎么让我振作起来了。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l8-b51"
+  },
+  {
+   "id": "s2-passage-s2-l8-b53",
+   "lesson": 8,
+   "en": "I care about you. After all, you are my best friend and have been from the get-go. I know I can count on you for good advice from time to time.",
+   "zh": "我关心你。毕竟,你从一开始就是我最好的朋友。我知道我是不是可以依靠你给你出好的建议。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l8-b53"
+  },
+  {
+   "id": "s2-real-9-1",
+   "lesson": 9,
+   "en": "What time does the movie start?",
+   "zh": "电影几点开始？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-9-2",
+   "lesson": 9,
+   "en": "I'm looking forward to seeing this movie.",
+   "zh": "我很期待看这部电影。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-9-3",
+   "lesson": 9,
+   "en": "What are you doing tomorrow?",
+   "zh": "你明天打算做什么？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-9-4",
+   "lesson": 9,
+   "en": "We don't have to decide now, since we're still in our freshman year.",
+   "zh": "我们现在不必决定，毕竟还在读大一。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-passage-s2-l9-b4",
+   "lesson": 9,
+   "en": "What time does the movie start ?",
+   "zh": "电影什么时候开始呢",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b4"
+  },
+  {
+   "id": "s2-passage-s2-l9-b8",
+   "lesson": 9,
+   "en": "It starts at 7 30, and ends at 9 45",
+   "zh": "他7:30开始9 45结束",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b8"
+  },
+  {
+   "id": "s2-passage-s2-l9-b10",
+   "lesson": 9,
+   "en": "Good, we can go on the bus ,and get back home before it's too dark. Is there a bus stop near your house ?",
+   "zh": "好的,我们可以乘坐公交车,在天黑之前我们可以回家,在你家附近有公交站点吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b10"
+  },
+  {
+   "id": "s2-passage-s2-l9-b12",
+   "lesson": 9,
+   "en": "Yes, it stops on the corner every 15 minutes.",
+   "zh": "有的,他每15分停在一个角落",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b12"
+  },
+  {
+   "id": "s2-passage-s2-l9-b14",
+   "lesson": 9,
+   "en": "Perfect. I'm looking forward to seeing this movie.",
+   "zh": "太好了.我非常期望看这个电影",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b14"
+  },
+  {
+   "id": "s2-passage-s2-l9-b20",
+   "lesson": 9,
+   "en": "I'm going to the beach with my family for a week. We are leaving early- at 6 00am.",
+   "zh": "我打算和我的家人去沙滩一周,我们早上6点就离开了",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b20"
+  },
+  {
+   "id": "s2-passage-s2-l9-b22",
+   "lesson": 9,
+   "en": "Oh , nice! So I guess you are planning to go to bed early tonight.",
+   "zh": "太棒了,我猜你计划今晚很早睡觉",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b22"
+  },
+  {
+   "id": "s2-passage-s2-l9-b24",
+   "lesson": 9,
+   "en": "Yeah, I'm gonna pack my bag and to try to hit the sack by 9 00.",
+   "zh": "是的,我正要收拾行李,尽量在9点之前睡觉",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b24"
+  },
+  {
+   "id": "s2-passage-s2-l9-b26",
+   "lesson": 9,
+   "en": "Good luck with that! What are you taking?",
+   "zh": "祝好运,你打算带些什么呢",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b26"
+  },
+  {
+   "id": "s2-passage-s2-l9-b29",
+   "lesson": 9,
+   "en": "I always pack light for the beach- a bathing suit, a couple of pairs of shorts, some T-shirts, a hat, a lot of sunscreen. How about you? What are you doing next week?",
+   "zh": "么?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b29"
+  },
+  {
+   "id": "s2-passage-s2-l9-b34",
+   "lesson": 9,
+   "en": "I have a long list! First I'm going to clean up my office ,pay bills,write",
+   "zh": "我有非常长的清单,首先我打算打扫我的办公室,付清账单,写信以及处理一些纸质工作,然后我打算装修我的房间,重新涂漆换一些新的窗帘",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b34"
+  },
+  {
+   "id": "s2-passage-s2-l9-b38",
+   "lesson": 9,
+   "en": "Wow, what color are you going to paint it?",
+   "zh": "那你想涂什么颜色的油漆呢?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b38"
+  },
+  {
+   "id": "s2-passage-s2-l9-b40",
+   "lesson": 9,
+   "en": "It's a very light blue. I've already picked it out and bought the paint.",
+   "zh": "淡蓝色,我已经挑选好了买了这个油漆",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b40"
+  },
+  {
+   "id": "s2-passage-s2-l9-b45",
+   "lesson": 9,
+   "en": "What do you think you will do when you finish college?",
+   "zh": "当你毕业时你打算干嘛",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b45"
+  },
+  {
+   "id": "s2-passage-s2-l9-b47",
+   "lesson": 9,
+   "en": "Oh, I'll probably stay in the city and look for work here. Then I'll go back home on holidays.",
+   "zh": "我可能留在这个城市,在这找工作,在假期的时候回家",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b47"
+  },
+  {
+   "id": "s2-passage-s2-l9-b51",
+   "lesson": 9,
+   "en": "Well, maybe you could find a job in a big city closer to home",
+   "zh": "是的,可能你可以离你家近的大城市找个工作",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b51"
+  },
+  {
+   "id": "s2-passage-s2-l9-b53",
+   "lesson": 9,
+   "en": "Yeah, that would be a good happy medium.",
+   "zh": "是的,那可能比较好的这种办法",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b53"
+  },
+  {
+   "id": "s2-passage-s2-l9-b55",
+   "lesson": 9,
+   "en": "On the other hand, since you like to travel, you could possibly get a job in another country- do something exotic .",
+   "zh": "另一方面来说因为你喜欢旅行你可能在另一个城市找工作做一些就有异域风情的",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b55"
+  },
+  {
+   "id": "s2-passage-s2-l9-b57",
+   "lesson": 9,
+   "en": "You're right ,I might get really bored just doing the same old thing . I'd learn a lot overseas- even pick up another language. It's definitely something to think about.",
+   "zh": "是的,一直做相同的事我可能感到厌倦我已经了解关于海外甚至是学习另一种语言他绝对是一件事值得考虑的",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b57"
+  },
+  {
+   "id": "s2-passage-s2-l9-b59",
+   "lesson": 9,
+   "en": "Well, I guess we don't have to decide now, since we're still in our freshman year !",
+   "zh": "是的我在我们不需要现在做决定因为我们仍然处在大一",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b59"
+  },
+  {
+   "id": "s2-passage-s2-l9-b62",
+   "lesson": 9,
+   "en": "What will the world be like 50 years from now?",
+   "zh": "从现在起50年后世界将会成什么样子呢",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b62"
+  },
+  {
+   "id": "s2-passage-s2-l9-b64",
+   "lesson": 9,
+   "en": "Just think, people will be living on Mars.",
+   "zh": "考虑一下,人类将生活在火星上",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b64"
+  },
+  {
+   "id": "s2-passage-s2-l9-b66",
+   "lesson": 9,
+   "en": "I'll bet cars will be replaced by little helicopters so you will be able to fly ahead in traffic.",
+   "zh": "我想车将被直升飞机代替因此你能够避免交通",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b66"
+  },
+  {
+   "id": "s2-passage-s2-l9-b68",
+   "lesson": 9,
+   "en": "There won't be any more wars.",
+   "zh": "将不再有战争。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b68"
+  },
+  {
+   "id": "s2-passage-s2-l9-b72",
+   "lesson": 9,
+   "en": "No way! Women will stay home and the men will do all the work .",
+   "zh": "绝不可能女人将留在家里,男人将会工作",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b72"
+  },
+  {
+   "id": "s2-passage-s2-l9-b74",
+   "lesson": 9,
+   "en": "There will be a better form of government .",
+   "zh": "政府将会管理的更好",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b74"
+  },
+  {
+   "id": "s2-passage-s2-l9-b76",
+   "lesson": 9,
+   "en": "People will have forgotten how to talk and we will only communicate electronically.",
+   "zh": "人类将会忘记如何沟通 ,这里只有电子交流",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b76"
+  },
+  {
+   "id": "s2-passage-s2-l9-b78",
+   "lesson": 9,
+   "en": "There won't be any disease, and people will live to be 150 years old",
+   "zh": "这里将不会存在任何疾病人类将会活到150岁",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b78"
+  },
+  {
+   "id": "s2-passage-s2-l9-b82",
+   "lesson": 9,
+   "en": "That's why people will live on Mars",
+   "zh": "那就是为什么人类将生活在火星上",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l9-b82"
+  },
+  {
+   "id": "s2-real-10-1",
+   "lesson": 10,
+   "en": "Anybody else want to put their two cents in?",
+   "zh": "还有谁想发表一下看法吗？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-10-2",
+   "lesson": 10,
+   "en": "What do you think?",
+   "zh": "你怎么看？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-10-3",
+   "lesson": 10,
+   "en": "I have to agree with April and Katie on this one.",
+   "zh": "这件事上我得赞同艾普和凯蒂。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-10-4",
+   "lesson": 10,
+   "en": "She isn't known for thinking outside the box.",
+   "zh": "她并不以打破常规思考见长。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-passage-s2-l10-b6",
+   "lesson": 10,
+   "en": "I've called you here to talk about the selection of a new director for the Customer Service Department. As you know, so far there are only two candidates, Martha Francis and Juliet Welch. First, I'd like to hear your comments, both pro and con, about Martha's qualifications for this position.",
+   "zh": "我把你们叫来是想讨论一下客户服务中心新主任的选拔问题。如你所知,到目前为止只有两位候选人,分别是玛莎弗朗西斯和朱茱莉亚⻙尔奇。首先,我想听听你们对玛莎担任这一职位的资格,正反两方面的意见。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l10-b6"
+  },
+  {
+   "id": "s2-passage-s2-l10-b8",
+   "lesson": 10,
+   "en": "Well, I think Martha is the perfect person for this position. She's been with the company for 20 years, so she knows the business inside out. She's conservative and serious. Plus, she gets along with everybody.",
+   "zh": "嗯,我认为玛莎是这个职位的完美人选。他在这个公司工作了20年,所以对业务了如指掌,他很保守且认真,而且他和每个人相处的很好。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l10-b8"
+  },
+  {
+   "id": "s2-passage-s2-l10-b10",
+   "lesson": 10,
+   "en": "Yikes. In my opinion, if she becomes director, nothing will change. I mean, we wouldn't see anything new, just the opposite. We'd keep on implementing the same programs as always.",
+   "zh": "真是让人惊讶,在我看来,如果他成为主管,一切都不会改变。我的意思是,我们不会看到任何变化,恰恰相反,我们将继续实施和以往相同的项目。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l10-b10"
+  },
+  {
+   "id": "s2-passage-s2-l10-b13",
+   "lesson": 10,
+   "en": "This issue has both pros and cons.",
+   "zh": "地道表达 : 优缺点",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l10-b13"
+  },
+  {
+   "id": "s2-passage-s2-l10-b19",
+   "lesson": 10,
+   "en": "She isn't known for thinking outside the box. What's more, we'd start to see our current customer base fall off simply because our competitors have enthusiastic new people and innovative programs. I'm just sayin'...",
+   "zh": "她并不以跳出框框思考而闻名此外由于我们的竞争对手拥有充满热情的新员工和创新的项目我们现有的客户群可能会开始流失。我只是说说",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l10-b19"
+  },
+  {
+   "id": "s2-passage-s2-l10-b21",
+   "lesson": 10,
+   "en": "I have to agree with April and Katie on this one. In the first place, Martha is too conservative.Plus, she'd hardly inspire any enthusiasm among the employees.",
+   "zh": "我很同意艾普和凯迪的看法。首先,玛莎他保守了,另外,她几乎无法激起员工的热情。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l10-b21"
+  },
+  {
+   "id": "s2-passage-s2-l10-b23",
+   "lesson": 10,
+   "en": "Anybody else want to put their two cents in?Okay, then let's talk about Juliet.What do you guys think?",
+   "zh": "还有别人想发表一下看法吗?好吧,那我们来谈谈朱丽叶。你们觉得呢?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l10-b23"
+  },
+  {
+   "id": "s2-passage-s2-l10-b26",
+   "lesson": 10,
+   "en": "There's a good movie on tonight, and I have a big flat screen TV. Just sayin'...",
+   "zh": "地道表达咱就是说",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l10-b26"
+  },
+  {
+   "id": "s2-passage-s2-l10-b33",
+   "lesson": 10,
+   "en": "Look, if Juliet gets this job, it will be a total disaster for the company. In the first place, her fancy degree isn't worth squat because she has zero experience. Besides, we don't even know her very well. Good grief, she's only been here since March.And to top it all off, we all know that she was fired from her last job.",
+   "zh": "听着,如果朱丽叶得到这个职位,对公司来说将是一场彻底的灾难。首先,她的高学历根本一文不值,因为她毫无经验。而且,我们对她不太了解。天哪,她从三月份开始在这里工作。更糟糕的是,我们都知道她上一份工作是被解雇的。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l10-b33"
+  },
+  {
+   "id": "s2-passage-s2-l10-b39",
+   "lesson": 10,
+   "en": "Use to emphasize how surprised angry shocked etc. More homework? Good grief, Miss Thompsom, you've already given us a paper to write.",
+   "zh": "地道表达:",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l10-b39"
+  },
+  {
+   "id": "s2-passage-s2-l10-b41",
+   "lesson": 10,
+   "en": "Well, since I put her name up, I have to say that I see her as a very bright and competent person.Still, I recognize that she lacks experience.And now that you tell me that her personality could cause friction among the employees,then I'll go along with your decision in this case.Obviously, we haven't found the ideal person to handle this job.We may have to look outside the company, which I don't particularly want to do.We'll meet here tomorrow at the same time.I'll expect your suggestions, and they'd better be more promising.",
+   "zh": "既然我提名她了,我就必须说,我认为她非常聪明且有能力。尽管如此,我仍意识到她缺乏经验。既然你告诉我她的个性可能会在员工中引起摩擦,那么在这种情况下我同意你的决定。显然,我们还没有找到合适的人来担任这项工作。我们可能不得不从公司外部寻找人选,这并不是我特别希望的。我们明天同一时间在这里见面。我会期待你的建议,而且最好更有前景一些。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l10-b41"
+  },
+  {
+   "id": "s2-real-11-1",
+   "lesson": 11,
+   "en": "Don't tell me you broke your leg.",
+   "zh": "别告诉我你把腿摔断了。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-11-2",
+   "lesson": 11,
+   "en": "So when did it happen?",
+   "zh": "这是什么时候发生的？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-11-3",
+   "lesson": 11,
+   "en": "What a bummer!",
+   "zh": "真扫兴！",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-11-4",
+   "lesson": 11,
+   "en": "Sit down here for a minute and tell me all about it.",
+   "zh": "在这里坐一会儿，跟我好好讲讲。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-passage-s2-l11-b3",
+   "lesson": 11,
+   "en": "Hey, buddy, what happened to you?Don't tell me you broke your leg.",
+   "zh": "嗨,兄弟,发生啥事了?不要告诉我你腿受伤了",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l11-b3"
+  },
+  {
+   "id": "s2-passage-s2-l11-b5",
+   "lesson": 11,
+   "en": "No, it's not that drastic.I just twisted my ankle.Still, it hurts a lot and walking with these crutches is a pain in the neck.",
+   "zh": "不是,没有那么严重。我只是扭到了脚踝,尽管如此,还是很痛,拄着双拐走路脖子也很痛",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l11-b5"
+  },
+  {
+   "id": "s2-passage-s2-l11-b9",
+   "lesson": 11,
+   "en": "It was the night of the basketball championship.And the worst thing is that we lost the game and all hopes of winning our title back.",
+   "zh": "那天是篮球锦标赛的夜晚。最糟糕的是,我们失去了比赛,失去了争冠的所有希望",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l11-b9"
+  },
+  {
+   "id": "s2-passage-s2-l11-b11",
+   "lesson": 11,
+   "en": "What a bummer.Sit down here for a minute and tell me all about it.",
+   "zh": "真扫兴。坐下来,跟我说说",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l11-b11"
+  },
+  {
+   "id": "s2-passage-s2-l11-b14",
+   "lesson": 11,
+   "en": "I locked my keys in the car- What a bummer!",
+   "zh": "地道表达:",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l11-b14"
+  },
+  {
+   "id": "s2-passage-s2-l11-b17",
+   "lesson": 11,
+   "en": "Well, it all happened last Thursday. It was pouring down rain and also freezing.",
+   "zh": "嗯,这一切发生在上周四,外面下着倾盆大雨,而且很冷。我急着早点去健身房放松一下,准备比赛开始。离开家的时候我压力很大,但我还是上车了,开始朝体育馆方向开去。突然,我的手机响了。是我女朋友。她对比赛非常兴奋,还想祝我好运。 我开始激动起来,准备好比赛。我和女朋友还在聊天,突然我发现前面的车子都停了,而且我开的有点快。我猛踩刹车,但是太晚了。街道潮湿,我装上了停在我前面的车。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l11-b17"
+  },
+  {
+   "id": "s2-passage-s2-l11-b21",
+   "lesson": 11,
+   "en": "Sparks Fly: Drop everything now. Meet me in the pouring rain. Kiss me on the sidewalk Take me away in the pain.",
+   "zh": "地道表达",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l11-b21"
+  },
+  {
+   "id": "s2-passage-s2-l11-b29",
+   "lesson": 11,
+   "en": "I was pretty nervous before the test, so I took a few minutes to pump myself up before I started.",
+   "zh": "3. 地道表达:pump up",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l11-b29"
+  },
+  {
+   "id": "s2-passage-s2-l11-b36",
+   "lesson": 11,
+   "en": "He freaked out when he heard he'd got the job.",
+   "zh": "地道表达 1.激动:",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l11-b36"
+  },
+  {
+   "id": "s2-passage-s2-l11-b38",
+   "lesson": 11,
+   "en": "Watching American Horror Story completely freaked me out!",
+   "zh": "2.惊吓:",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l11-b38"
+  },
+  {
+   "id": "s2-real-12-1",
+   "lesson": 12,
+   "en": "Would you like to have the loaf sliced?",
+   "zh": "您需要把这条面包切片吗？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-12-2",
+   "lesson": 12,
+   "en": "Do you have any whole wheat bread?",
+   "zh": "你们有全麦面包吗？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-12-3",
+   "lesson": 12,
+   "en": "We're out at the moment. May I suggest some rye bread?",
+   "zh": "现在卖完了。推荐您试试黑麦面包，可以吗？",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-12-4",
+   "lesson": 12,
+   "en": "I'll just take a cheesecake.",
+   "zh": "我就要一个芝士蛋糕吧。",
+   "original": "",
+   "speaker": "练习",
+   "origin": "课文重点句·补充语流分析",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-passage-s2-l12-b3",
+   "lesson": 12,
+   "en": "Welcome to AI's Bakery, What can I get you? What can I do for you ? How can I help you?",
+   "zh": "欢迎来到 AI 面包店,我能帮助你什么吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b3"
+  },
+  {
+   "id": "s2-passage-s2-l12-b5",
+   "lesson": 12,
+   "en": "Hi, let me get a dozen croissant, 4 blueberry muffins and a loaf of sourdough bread.",
+   "zh": "你好,帮我拿12个,4个蓝莓麦芬和一条酸酸的面包。",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b5"
+  },
+  {
+   "id": "s2-passage-s2-l12-b7",
+   "lesson": 12,
+   "en": "Sure, would you like to have the loaf sliced?",
+   "zh": "好的,你愿意让面包切一下吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b7"
+  },
+  {
+   "id": "s2-passage-s2-l12-b9",
+   "lesson": 12,
+   "en": "No, that's OK. Do you have any whole wheat bread.",
+   "zh": "不需要这样,你们这有全麦面包吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b9"
+  },
+  {
+   "id": "s2-passage-s2-l12-b13",
+   "lesson": 12,
+   "en": "Sure that sounds good. Do you have any cakes?",
+   "zh": "听起来好极了,你们这有蛋糕吗?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b13"
+  },
+  {
+   "id": "s2-passage-s2-l12-b15",
+   "lesson": 12,
+   "en": "We have various birthday cakes and also ice cream cakes.",
+   "zh": "我们有各种类型的生日蛋糕, 也有冰淇淋蛋糕",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b15"
+  },
+  {
+   "id": "s2-passage-s2-l12-b19",
+   "lesson": 12,
+   "en": "Will that be all?",
+   "zh": "就这些吗",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b19"
+  },
+  {
+   "id": "s2-passage-s2-l12-b23",
+   "lesson": 12,
+   "en": "Your total is 43 dollars and 20 cents.",
+   "zh": "总共消费1 43块钱20分",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b23"
+  },
+  {
+   "id": "s2-passage-s2-l12-b28",
+   "lesson": 12,
+   "en": "So where is this mystery restaurant that we are going to?",
+   "zh": "所以我们即将去的神秘餐馆在哪里呢",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b28"
+  },
+  {
+   "id": "s2-passage-s2-l12-b30",
+   "lesson": 12,
+   "en": "It's an Indian restaurant. I know you have never had Indian food, so I thought you might Want to try.",
+   "zh": "它是一个印度餐馆,我知道你从来没有吃过印地食物,所以我觉得你可能想试一下",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b30"
+  },
+  {
+   "id": "s2-passage-s2-l12-b32",
+   "lesson": 12,
+   "en": "That sounds great. I'm craving some type of beef dish.",
+   "zh": "听起来棒极了我特别想吃牛肉",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b32"
+  },
+  {
+   "id": "s2-passage-s2-l12-b34",
+   "lesson": 12,
+   "en": "Well, Indian cuisine actually doesn't serve beef. You see cows are a sacred animal, a very important element in the Hindu religion. So beef is not eaten",
+   "zh": "嗯, 印度菜单实际上没有牛肉, 你知道牛肉是神圣的动物, 一个非常重要的元素在印度教. 因此牛肉是不允许被吃的.",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b34"
+  },
+  {
+   "id": "s2-passage-s2-l12-b43",
+   "lesson": 12,
+   "en": "There are many amazing dishes to choose from. We can have some chicken tikka masala which is an amazing curry. It is a bit spicy, but I think you can handle it.",
+   "zh": "许多美味的餐选择我们有一些鸡肉咖喱是非常它有一些辣但是我认为你能吃",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b43"
+  },
+  {
+   "id": "s2-passage-s2-l12-b45",
+   "lesson": 12,
+   "en": "Sounds good. I have always heard that Indian spices give a rich flavor to food",
+   "zh": "听起来好极了我总是听说印度辣味给食物丰富的味道",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b45"
+  },
+  {
+   "id": "s2-passage-s2-l12-b47",
+   "lesson": 12,
+   "en": "Yeah. Also, we can have some Naan bread which is a baked in a tandoori oven. Since you don't use any utensils to eat, you can use this bread to scoop up the curry or rice.",
+   "zh": "是的我们还有一些",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b47"
+  },
+  {
+   "id": "s2-passage-s2-l12-b49",
+   "lesson": 12,
+   "en": "What about veggies?",
+   "zh": "素食主义怎么样呢?",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b49"
+  },
+  {
+   "id": "s2-passage-s2-l12-b51",
+   "lesson": 12,
+   "en": "They have a good variety of vegetable based dishes like palak paneer, vegetable samosa or Daal.",
+   "zh": "他们有许多蔬菜选择",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b51"
+  },
+  {
+   "id": "s2-passage-s2-l12-b53",
+   "lesson": 12,
+   "en": "It all sounds exquisite, I can't wait!",
+   "zh": "听起来棒极了,我有些迫不及待了",
+   "original": "",
+   "speaker": "课文",
+   "origin": "课文逐段·补充语流分析",
+   "sourceBlock": "s2-l12-b53"
+  },
+  {
+   "id": "s2-real-13-1",
+   "lesson": 13,
+   "original": "Debbie 'n Becky'er at tendin' a pardy.",
+   "en": "Debbie and Becky are attending a party.",
+   "zh": "黛比和贝姬正在参加派对。",
+   "speaker": "场景",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-13-2",
+   "lesson": 13,
+   "original": "Debbie: I dunno why I letchu convince me da come here. I hate pardies.",
+   "en": "I don't know why I let you convince me to come here. I hate parties.",
+   "zh": "真不知道我为什么会被你说服来这里。我讨厌派对。",
+   "speaker": "Debbie",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-13-3",
+   "lesson": 13,
+   "original": "Becky: Would'ja ged a grip? This'ez gonna be a blast!",
+   "en": "Would you get a grip? This is going to be a blast!",
+   "zh": "冷静一点，好吗？这次肯定会很好玩！",
+   "speaker": "Becky",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-13-4",
+   "lesson": 13,
+   "original": "Debbie: Oh, no. Look 'oo jus' walked in. Sheila Hampton. I can't stand 'er. She always gets on my case 'cuz she doesn' like the way I dress.",
+   "en": "Oh, no. Look who just walked in. Sheila Hampton. I can't stand her. She always gets on my case because she doesn't like the way I dress.",
+   "zh": "糟了，看看谁来了。希拉·汉普顿。我受不了她。她总因为不喜欢我的穿着而找我麻烦。",
+   "speaker": "Debbie",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-13-5",
+   "lesson": 13,
+   "original": "Becky: What?! Did'ja ged a load of that tiny dress she's wearing? Her belt's so tide it looks like she's being cud 'n half! Hey, isn't that Ernie Milton she's with?",
+   "en": "What?! Did you get a load of that tiny dress she's wearing? Her belt's so tight it looks like she's being cut in half! Hey, isn't that Ernie Milton she's with?",
+   "zh": "什么？！你看见她穿的那条小裙子了吗？腰带勒得像把她截成两半！和她在一起的不是厄尼·米尔顿吗？",
+   "speaker": "Becky",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-13-6",
+   "lesson": 13,
+   "original": "Debbie: Yeah, yer right. He's gained so much weight! An' what's up with 'is hair?",
+   "en": "Yeah, you're right. He's gained so much weight! And what's up with his hair?",
+   "zh": "没错。他胖了好多！他的头发又是怎么回事？",
+   "speaker": "Debbie",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-13-7",
+   "lesson": 13,
+   "original": "Becky: What hair? I dunno whatchu think, bud I think it's a rug.",
+   "en": "What hair? I don't know what you think, but I think it's a rug.",
+   "zh": "什么头发？不知道你怎么想，我觉得那是假发。",
+   "speaker": "Becky",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-13-8",
+   "lesson": 13,
+   "original": "Debbie: No way! Yer pudding me on! He was such a hunk! He's changed so much 'n ten years!",
+   "en": "No way! You're putting me on! He was such a hunk! He's changed so much in ten years!",
+   "zh": "不会吧！你在逗我！他以前可是个大帅哥！十年变化太大了！",
+   "speaker": "Debbie",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-13-9",
+   "lesson": 13,
+   "original": "Becky: I remember. I wonder what happened ta him. Uh oh. I think Sheila's waving ad us. They're both coming this way!",
+   "en": "I remember. I wonder what happened to him. Uh oh. I think Sheila's waving at us. They're both coming this way!",
+   "zh": "我记得。不知道他经历了什么。不好，希拉好像在朝我们挥手。他们两个都往这边来了！",
+   "speaker": "Becky",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-13-10",
+   "lesson": 13,
+   "original": "Debbie: Oh, no. Run!",
+   "en": "Oh, no. Run!",
+   "zh": "糟了，快跑！",
+   "speaker": "Debbie",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-14-1",
+   "lesson": 14,
+   "original": "Bill 'n Liz'er shoppin' fer dinner.",
+   "en": "Bill and Liz are shopping for dinner.",
+   "zh": "比尔和莉兹正在买晚餐食材。",
+   "speaker": "场景",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-14-2",
+   "lesson": 14,
+   "original": "Bill: Chicken's only twen'y-nine cents a pound. Talk about rock-boddom prices!",
+   "en": "Chicken's only twenty-nine cents a pound. Talk about rock-bottom prices!",
+   "zh": "鸡肉一磅才二十九美分，真是低到不能再低了！",
+   "speaker": "Bill",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-14-3",
+   "lesson": 14,
+   "original": "Liz: I know. They've been slashing their prices all week.",
+   "en": "I know. They've been slashing their prices all week.",
+   "zh": "可不是嘛。他们整周都在大幅降价。",
+   "speaker": "Liz",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-14-4",
+   "lesson": 14,
+   "original": "Bill: I have 'n idea. Let's pick up s'm chicken 'n veggies 'n make a big salad tanight. We could also buy a cake fer dessert.",
+   "en": "I have an idea. Let's pick up some chicken and veggies and make a big salad tonight. We could also buy a cake for dessert.",
+   "zh": "我有个主意。买些鸡肉和蔬菜，今晚做一大份沙拉吧。还可以买个蛋糕当甜点。",
+   "speaker": "Bill",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-14-5",
+   "lesson": 14,
+   "original": "Liz: Grade idea! Look 'it this pastry section. It's ta die for! Jus' look id all these cakes! The smell 'a these pastries is making my mouth wader.",
+   "en": "Great idea! Look at this pastry section. It's to die for! Just look at all these cakes! The smell of these pastries is making my mouth water.",
+   "zh": "好主意！看看糕点区，太诱人了！这么多蛋糕！闻着这些糕点，我都流口水了。",
+   "speaker": "Liz",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-14-6",
+   "lesson": 14,
+   "original": "Bill: Wait! Did'ja see the price of these cakes? They cost more th'n the chicken. Whad a rip-off! Let's jus' make one fr'm scratch. Id'll be a lot cheaper.",
+   "en": "Wait! Did you see the price of these cakes? They cost more than the chicken. What a rip-off! Let's just make one from scratch. It'll be a lot cheaper.",
+   "zh": "等等！看见蛋糕的价格了吗？比鸡肉还贵，真坑人！我们还是自己从头做一个吧，便宜多了。",
+   "speaker": "Bill",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-14-7",
+   "lesson": 14,
+   "original": "Liz: I think yer right. Let's hurry 'n get the checker da ring up 'ar purchases. I'm starving!",
+   "en": "I think you're right. Let's hurry and get the checker to ring up our purchases. I'm starving!",
+   "zh": "你说得对。快让收银员结账吧，我饿坏了！",
+   "speaker": "Liz",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-15-1",
+   "lesson": 15,
+   "original": "George 'n David 'er at the movies.",
+   "en": "George and David are at the movies.",
+   "zh": "乔治和大卫在电影院。",
+   "speaker": "场景",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-15-2",
+   "lesson": 15,
+   "original": "George: It's a good thing we got tickets early. The movie's a sellout!",
+   "en": "It's a good thing we got tickets early. The movie's a sellout!",
+   "zh": "幸好我们早买了票，这部电影的票都卖光了！",
+   "speaker": "George",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-15-3",
+   "lesson": 15,
+   "original": "David: They must'a been plugging this movie fer weeks. Now it's a blockbusder!",
+   "en": "They must have been plugging this movie for weeks. Now it's a blockbuster!",
+   "zh": "他们肯定宣传这部电影好几个星期了，现在成了卖座大片！",
+   "speaker": "David",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-15-4",
+   "lesson": 15,
+   "original": "George: The cridics must really be saprised thad it turned out ta be a sleeper.",
+   "en": "The critics must really be surprised that it turned out to be a sleeper.",
+   "zh": "它竟然成了意外走红的电影，影评人一定很吃惊。",
+   "speaker": "George",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-15-5",
+   "lesson": 15,
+   "original": "David: Ah'll say. They said it w'z gonna be a bomb 'n th't the performers couldn' act their way oud of a paper bag.",
+   "en": "I'll say. They said it was going to be a bomb and that the performers couldn't act their way out of a paper bag.",
+   "zh": "可不是嘛。他们还说这会是部失败之作，演员根本不会演戏。",
+   "speaker": "David",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-15-6",
+   "lesson": 15,
+   "original": "George: Well, yesderday I saw a wride-up where the reviewer gave it two thumbs up. He said there were a lod 'a funny lines.",
+   "en": "Well, yesterday I saw a write-up where the reviewer gave it two thumbs up. He said there were a lot of funny lines.",
+   "zh": "昨天我看到一篇评论，作者大力推荐，说里面有很多好笑的台词。",
+   "speaker": "George",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-15-7",
+   "lesson": 15,
+   "original": "David: Reviewers never seem da agree on anything. When's this thing gonna start? It should'a starded 'n hour ago. Let's get the show on the road!",
+   "en": "Reviewers never seem to agree on anything. When's this thing going to start? It should have started an hour ago. Let's get the show on the road!",
+   "zh": "影评人似乎从来意见不一。这电影什么时候开始？一小时前就该开始了，赶紧开始吧！",
+   "speaker": "David",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-16-1",
+   "lesson": 16,
+   "original": "Chris 'n Marie 'er on vacation.",
+   "en": "Chris and Marie are on vacation.",
+   "zh": "克里斯和玛丽在度假。",
+   "speaker": "场景",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-16-2",
+   "lesson": 16,
+   "original": "Chris: It's a good thing this B&B was able to put us up fer the night. All the hotels in town were booked solid.",
+   "en": "It's a good thing this B&B was able to put us up for the night. All the hotels in town were booked solid.",
+   "zh": "幸好这家民宿能让我们住一晚，镇上的酒店全都订满了。",
+   "speaker": "Chris",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-16-3",
+   "lesson": 16,
+   "original": "Marie: So, what should we do now? Hey, I have 'n idea. Tonight, let's grab a cab 'n hit the town. Maybe we can go sightseeing before dinner.",
+   "en": "So, what should we do now? Hey, I have an idea. Tonight, let's grab a cab and hit the town. Maybe we can go sightseeing before dinner.",
+   "zh": "那现在做什么呢？有了，今晚打车去城里玩吧，也许晚饭前还能逛逛景点。",
+   "speaker": "Marie",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-16-4",
+   "lesson": 16,
+   "original": "Chris: An' since we're on vacation, we can stay up till all hours of the night an' sleep in tomorrow.",
+   "en": "And since we're on vacation, we can stay up till all hours of the night and sleep in tomorrow.",
+   "zh": "既然在度假，我们可以玩到深夜，明天睡个懒觉。",
+   "speaker": "Chris",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-16-5",
+   "lesson": 16,
+   "original": "Marie: Great! Then in the afternoon, we can take a dip an' hang out by the pool. It'll be nice ta soak up some sun.",
+   "en": "Great! Then in the afternoon, we can take a dip and hang out by the pool. It'll be nice to soak up some sun.",
+   "zh": "太好了！下午可以游会儿泳，在泳池边休息，晒晒太阳一定很舒服。",
+   "speaker": "Marie",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-16-6",
+   "lesson": 16,
+   "original": "Chris: An' tomorrow night, we could take in a movie!",
+   "en": "And tomorrow night, we could take in a movie!",
+   "zh": "明天晚上还可以看场电影！",
+   "speaker": "Chris",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-17-1",
+   "lesson": 17,
+   "original": "Karen's at the airport waitin' fer Steve ta arrive.",
+   "en": "Karen's at the airport waiting for Steve to arrive.",
+   "zh": "凯伦在机场等史蒂夫到达。",
+   "speaker": "场景",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-17-2",
+   "lesson": 17,
+   "original": "Steve: I'm sorry w'r so late. We had 'n unexpected two-hour layover some place way out 'n the boonies. Ya know, I almost missed the flite entirely 'cuz of all the traffic! So I arrived late 'n got bumped. Luckily, they agreed da put me on stan'by. All I had w'z a carry-on, so it w'z easy.",
+   "en": "I'm sorry we're so late. We had an unexpected two-hour layover some place way out in the boonies. You know, I almost missed the flight entirely because of all the traffic! So I arrived late and got bumped. Luckily, they agreed to put me on standby. All I had was a carry-on, so it was easy.",
+   "zh": "抱歉，我们晚了这么久。飞机意外在一个偏远地方停了两小时。路上太堵，我差点彻底错过航班！我到得晚，座位被取消了。幸好他们同意让我候补。我只有随身行李，所以还算方便。",
+   "speaker": "Steve",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-17-3",
+   "lesson": 17,
+   "original": "Karen: It's a good thing ya travel light. Well, with the jet lag, I imagine yer preddy wiped out.",
+   "en": "It's a good thing you travel light. Well, with the jet lag, I imagine you're pretty wiped out.",
+   "zh": "幸好你轻装出行。加上时差，我想你一定累坏了。",
+   "speaker": "Karen",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-17-4",
+   "lesson": 17,
+   "original": "Steve: Akshelly, I'm preddy wired after all that trav'ling. At least I godda free ticket fer being a frequent flyer!",
+   "en": "Actually, I'm pretty wired after all that traveling. At least I got a free ticket for being a frequent flyer!",
+   "zh": "其实折腾这一趟后我反倒很亢奋。至少作为常旅客，我还拿到了一张免费机票！",
+   "speaker": "Steve",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-17-5",
+   "lesson": 17,
+   "original": "Karen: So, how w'z it trav'ling on the red-eye?",
+   "en": "So, how was it traveling on the red-eye?",
+   "zh": "那坐红眼航班感觉怎么样？",
+   "speaker": "Karen",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-17-6",
+   "lesson": 17,
+   "original": "Steve: It god a liddle bumpy fer a while. Luckily, I never had ta use the barf bag!",
+   "en": "It got a little bumpy for a while. Luckily, I never had to use the barf bag!",
+   "zh": "有一段时间有点颠簸，幸好没用上呕吐袋！",
+   "speaker": "Steve",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-18-1",
+   "lesson": 18,
+   "original": "Cecily 'n Jim'er grabbin' a bite.",
+   "en": "Cecily and Jim are grabbing a bite.",
+   "zh": "塞西莉和吉姆在吃点东西。",
+   "speaker": "场景",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-18-2",
+   "lesson": 18,
+   "original": "Cecily: I know we w'r gonna go Dutch fer lunch, b't since taday's yer birthday, lunch is on me.",
+   "en": "I know we were going to go Dutch for lunch, but since today's your birthday, lunch is on me.",
+   "zh": "本来说好午饭各付各的，不过今天是你生日，这顿我请。",
+   "speaker": "Cecily",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-18-3",
+   "lesson": 18,
+   "original": "Jim: Well, I w'z plannin' on cudding down, b't if yer payin', I'm gonna pig out!",
+   "en": "Well, I was planning on cutting down, but if you're paying, I'm going to pig out!",
+   "zh": "本来打算少吃点，不过既然你请客，我要大吃一顿！",
+   "speaker": "Jim",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-18-4",
+   "lesson": 18,
+   "original": "Cecily: Good! It's yer birthday! Have whadever ya want. I feel like havin' a big juicy burger an' a side 'a fries. How 'bout chu?",
+   "en": "Good! It's your birthday! Have whatever you want. I feel like having a big juicy burger and a side of fries. How about you?",
+   "zh": "好啊！今天你过生日，想吃什么都行。我想来一个鲜嫩多汁的大汉堡，配薯条。你呢？",
+   "speaker": "Cecily",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-18-5",
+   "lesson": 18,
+   "original": "Jim: Ah'll have the same. In fact, I think ah'll also ged 'n order of onion rings, patato salad, s'm bake' beans, cole slaw, an' s'm biscuits. An' ta sadify my sweet tooth, ah'll ged a slice 'a choc'lit pie. Ya know whadda chocaholic I am!",
+   "en": "I'll have the same. In fact, I think I'll also get an order of onion rings, potato salad, some baked beans, cole slaw, and some biscuits. And to satisfy my sweet tooth, I'll get a slice of chocolate pie. You know what a chocoholic I am!",
+   "zh": "我也一样。另外还想点洋葱圈、土豆沙拉、焗豆、卷心菜沙拉和小面包。为了满足我对甜食的渴望，再来一块巧克力派。你知道我多爱巧克力！",
+   "speaker": "Jim",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-18-6",
+   "lesson": 18,
+   "original": "Cecily: Jim, yer eyes 'er bigger th'n yer stomach.",
+   "en": "Jim, your eyes are bigger than your stomach.",
+   "zh": "吉姆，你眼馋肚饱，点得比吃得下的多。",
+   "speaker": "Cecily",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-18-7",
+   "lesson": 18,
+   "original": "Jim: Maybe yer right. Okay. Skip the salad.",
+   "en": "Maybe you're right. Okay. Skip the salad.",
+   "zh": "也许你说得对。好吧，不要沙拉了。",
+   "speaker": "Jim",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-18-8",
+   "lesson": 18,
+   "original": "Cecily: I have a feelin' yer gonna need a doggie bag fer all the leftovers. An' I'm gonna need da ged a secon' job da pay fer this lunch!",
+   "en": "I have a feeling you're going to need a doggie bag for all the leftovers. And I'm going to need to get a second job to pay for this lunch!",
+   "zh": "我感觉这些剩菜得给你打包。而我得再找份工作，才能付得起这顿午饭！",
+   "speaker": "Cecily",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-19-1",
+   "lesson": 19,
+   "original": "John's showin' Mark 'is new car.",
+   "en": "John's showing Mark his new car.",
+   "zh": "约翰正在给马克看他的新车。",
+   "speaker": "场景",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-19-2",
+   "lesson": 19,
+   "original": "Mark: Is this yer new car? It's beaudiful!",
+   "en": "Is this your new car? It's beautiful!",
+   "zh": "这是你的新车吗？太漂亮了！",
+   "speaker": "Mark",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-19-3",
+   "lesson": 19,
+   "original": "John: Thanks. It's sher a step up fr'm the clunker I usta have. Hop in 'n ah'll take ya fer a spin.",
+   "en": "Thanks. It's sure a step up from the clunker I used to have. Hop in and I'll take you for a spin.",
+   "zh": "谢谢，比以前那辆破车强多了。上来吧，我带你兜一圈。",
+   "speaker": "John",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-19-4",
+   "lesson": 19,
+   "original": "Mark: Jus' be careful. I know about cher lead foot. Ya don't wanna ged into a fenderbender! And ya definitely don't wanna get hauled in by a cop fer speeding 'r running a light.",
+   "en": "Just be careful. I know about your lead foot. You don't want to get into a fender bender! And you definitely don't want to get hauled in by a cop for speeding or running a light.",
+   "zh": "小心点，我知道你爱踩重油门。你可不想发生剐蹭，更不想因为超速或闯红灯被警察带走！",
+   "speaker": "Mark",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-19-5",
+   "lesson": 19,
+   "original": "John: Don't worry. I promise I'm not gonna todal my car 'r ged arrested my firs' day havin' a new car.",
+   "en": "Don't worry. I promise I'm not going to total my car or get arrested my first day having a new car.",
+   "zh": "放心，我保证不会刚有新车第一天就把车撞报废或被逮捕。",
+   "speaker": "John",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-19-6",
+   "lesson": 19,
+   "original": "Mark: Okay, b't be careful. The road ta Nancy's house is full 'a pot holes 'n ya don't wanna ged a blowout.",
+   "en": "Okay, but be careful. The road to Nancy's house is full of potholes and you don't want to get a blowout.",
+   "zh": "好吧，还是小心点。去南希家的路上到处是坑，你可不想爆胎。",
+   "speaker": "Mark",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-19-7",
+   "lesson": 19,
+   "original": "John: Don't worry! Ah'll take it slowly. Besides, since this is rush hour, w'r not gonna be able da go very fast with all the bumper-da-bumper traffic! B't once it clears up, I'm gonna punch it!",
+   "en": "Don't worry! I'll take it slowly. Besides, since this is rush hour, we're not going to be able to go very fast with all the bumper-to-bumper traffic! But once it clears up, I'm going to punch it!",
+   "zh": "放心，我慢慢开。再说现在是高峰期，车挨着车也开不快。不过路一通，我就要踩油门了！",
+   "speaker": "John",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-20-1",
+   "lesson": 20,
+   "original": "Lee 'n David 'er talkin' aboud Eric.",
+   "en": "Lee and David are talking about Eric.",
+   "zh": "李和大卫正在聊埃里克。",
+   "speaker": "场景",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-20-2",
+   "lesson": 20,
+   "original": "David: I just heard thad Eric flunked 'ar psych class! Izat true?",
+   "en": "I just heard that Eric flunked our psych class! Is that true?",
+   "zh": "听说埃里克心理学挂科了，是真的吗？",
+   "speaker": "David",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-20-3",
+   "lesson": 20,
+   "original": "Lee: Yeah, I can't b'lieve it. It's never happen' to 'im b'fore! He always gets straid A's on the pop quizzes an' 'e even aced the mid-term. How could 'e possibly blow the final?",
+   "en": "Yeah, I can't believe it. It's never happened to him before! He always gets straight A's on the pop quizzes and he even aced the midterm. How could he possibly blow the final?",
+   "zh": "是啊，真不敢相信。以前从没这样！他突击测验总拿全优，期中也考得特别好，怎么会搞砸期末？",
+   "speaker": "Lee",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-20-4",
+   "lesson": 20,
+   "original": "David: That's 'cuz 'e starded da cut class all the time 'n stopped studying. I passed it 'cuz I pulled 'n all-nighter tryin' da cram for it.",
+   "en": "That's because he started to cut class all the time and stopped studying. I passed it because I pulled an all-nighter trying to cram for it.",
+   "zh": "因为他后来总逃课，也不学习了。我为了临时抱佛脚熬了一整夜，才考过。",
+   "speaker": "David",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-20-5",
+   "lesson": 20,
+   "original": "Lee: I've never taken such a killer test in my life. Unfortunately fer Eric, the prafesser isn' allowin' 'im ta take a make-up.",
+   "en": "I've never taken such a killer test in my life. Unfortunately for Eric, the professor isn't allowing him to take a make-up.",
+   "zh": "我从没考过这么难的考试。不幸的是，教授不允许埃里克补考。",
+   "speaker": "Lee",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-20-6",
+   "lesson": 20,
+   "original": "David: He should'a dropped the class when 'e had the chance!",
+   "en": "He should have dropped the class when he had the chance!",
+   "zh": "有机会的时候，他就该退掉这门课！",
+   "speaker": "David",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-21-1",
+   "lesson": 21,
+   "original": "Karen 'n Janet 'er talkin' on the phone.",
+   "en": "Karen and Janet are talking on the phone.",
+   "zh": "凯伦和珍妮特正在通电话。",
+   "speaker": "场景",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-21-2",
+   "lesson": 21,
+   "original": "Karen: Hi, Janet. I haven't heard fr'm ya in a while. How are ya?",
+   "en": "Hi, Janet. I haven't heard from you in a while. How are you?",
+   "zh": "嗨，珍妮特，好久没你的消息了。你怎么样？",
+   "speaker": "Karen",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-21-3",
+   "lesson": 21,
+   "original": "Janet: I've been feeling under the weather. I felt blah all morning. Then by the afternoon, I w'z ez sick ez a dog. I starded running a fever 'n akshelly thod I w'z gonna pass out! Fin'lly I had Brad take me da the doctor who said it w'z a bad case 'a the flu which just hasta run its course. I should be rarin' da go soon.",
+   "en": "I've been feeling under the weather. I felt blah all morning. Then by the afternoon, I was as sick as a dog. I started running a fever and actually thought I was going to pass out! Finally I had Brad take me to the doctor who said it was a bad case of the flu which just has to run its course. I should be raring to go soon.",
+   "zh": "最近不太舒服，整早没精神，下午更是病得厉害。我开始发烧，真以为要晕倒！最后让布拉德带我看医生，说是严重流感，只能等它自然恢复。我应该很快就能精神抖擞了。",
+   "speaker": "Janet",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-21-4",
+   "lesson": 21,
+   "original": "Karen: Well, it sounds like you'll definitely pull through. It takes a while da bounce back after havin' the flu, bud I'm sher you'll be back 'n the pink soon. Jus' try da take id easy fer a while.",
+   "en": "Well, it sounds like you'll definitely pull through. It takes a while to bounce back after having the flu, but I'm sure you'll be back in the pink soon. Just try to take it easy for a while.",
+   "zh": "听起来你肯定能康复。流感后恢复需要时间，但你很快就会恢复健康的。这阵子尽量好好休息。",
+   "speaker": "Karen",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-21-5",
+   "lesson": 21,
+   "original": "Janet: Yer right bud I'm too antsy da jus' lie 'n bed. I get bored oudda my mind!",
+   "en": "You're right but I'm too antsy to just lie in bed. I get bored out of my mind!",
+   "zh": "你说得对，可我实在闲不住，光躺床上会无聊疯的！",
+   "speaker": "Janet",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-21-6",
+   "lesson": 21,
+   "original": "Karen: I know what'cha mean. The las' time I w'z sick, I starded ta go stir crazy!",
+   "en": "I know what you mean. The last time I was sick, I started to go stir crazy!",
+   "zh": "我明白。上次生病时，我待在家里也快憋疯了！",
+   "speaker": "Karen",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-22-1",
+   "lesson": 22,
+   "original": "Susan's tellin' Melanie aboud 'er date.",
+   "en": "Susan's telling Melanie about her date.",
+   "zh": "苏珊正在向梅拉妮讲她的约会。",
+   "speaker": "场景",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-22-2",
+   "lesson": 22,
+   "original": "Melanie: Ya hafta tell me about cher blin' date. How was it? Was 'e drop-dead gorgeous? Was it love 'it firs' sight?",
+   "en": "You have to tell me about your blind date. How was it? Was he drop-dead gorgeous? Was it love at first sight?",
+   "zh": "快跟我说说你的相亲吧。怎么样？他帅呆了吗？你们一见钟情了吗？",
+   "speaker": "Melanie",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-22-3",
+   "lesson": 22,
+   "original": "Susan: Hardly! First of all, I waided fer 'n hour b'fore 'e fin'lly picked me up. I just assumed th'd I w'z bein' stood up. Then when 'e fin'lly did show up, I open' the door da fin' the bigges' nerd standin' there! By the end 'a the ev'ning, he told me thad 'e had a crush on me an' then starded talkin' about tying the knot!",
+   "en": "Hardly! First of all, I waited for an hour before he finally picked me up. I just assumed that I was being stood up. Then when he finally did show up, I opened the door to find the biggest nerd standing there! By the end of the evening, he told me that he had a crush on me and then started talking about tying the knot!",
+   "zh": "才没有！我等了一小时他才来接，还以为被放鸽子了。他终于出现，我开门却发现站着个超级呆子！到晚上快结束时，他说喜欢我，接着就谈起结婚！",
+   "speaker": "Susan",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-22-4",
+   "lesson": 22,
+   "original": "Melanie: On the firs' date?! It w'z prob'ly jus' puppy love. Listen, my advice ta you is that the nex' time 'e asks you out, jus' turn 'im down an' run 'n the opposite direction! Whadever ya do, ya certainly don't wanna lead 'im on.",
+   "en": "On the first date?! It was probably just puppy love. Listen, my advice to you is that the next time he asks you out, just turn him down and run in the opposite direction! Whatever you do, you certainly don't want to lead him on.",
+   "zh": "第一次约会就这样？！多半只是一时迷恋。我建议下次他约你就拒绝，赶紧远离！无论怎样，都别让他误以为你也喜欢他。",
+   "speaker": "Melanie",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-22-5",
+   "lesson": 22,
+   "original": "Susan: I'm sapposta go out with another guy next week, b'd I've decided ta break 'ar date. I jus' can't go through this again.",
+   "en": "I'm supposed to go out with another guy next week, but I've decided to break our date. I just can't go through this again.",
+   "zh": "本来下周要和另一个男生出去，不过我决定取消。我实在不想再经历一遍。",
+   "speaker": "Susan",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-22-6",
+   "lesson": 22,
+   "original": "Melanie: Now, don't dump 'im b'fore ya even meed 'im! He may be a great guy fer you. Jus' make sher there'er no strings attached b'fore ya go out.",
+   "en": "Now, don't dump him before you even meet him! He may be a great guy for you. Just make sure there are no strings attached before you go out.",
+   "zh": "别还没见面就把人家甩了！他也许很适合你。出去之前说清楚不附带任何承诺就好。",
+   "speaker": "Melanie",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  },
+  {
+   "id": "s2-real-22-7",
+   "lesson": 22,
+   "original": "Susan: Fine. You go out with 'im.",
+   "en": "Fine. You go out with him.",
+   "zh": "好啊，那你去跟他约会吧。",
+   "speaker": "Susan",
+   "origin": "教材口语对照",
+   "sourceBlock": ""
+  }
+ ],
+ "cards": [
+  {
+   "id": "s2-real-1-1",
+   "lesson": 1,
+   "en": "Hi—you must be John's cousin Matt, right? From San Diego?",
+   "zh": "嗨，你一定是约翰的表弟马特吧？从圣地亚哥来的？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-1-2",
+   "lesson": 1,
+   "en": "Correct! I just got in last night.",
+   "zh": "没错！我昨晚刚到。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-1-3",
+   "lesson": 1,
+   "en": "That sounds awesome. How long are you staying?",
+   "zh": "听起来太棒了。你准备待多久？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-1-4",
+   "lesson": 1,
+   "en": "I'm looking forward to hearing what John has in store for me.",
+   "zh": "我很期待听听约翰为我安排了什么。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-2-1",
+   "lesson": 2,
+   "en": "I'm so glad to meet you in person.",
+   "zh": "很高兴当面见到你。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-2-2",
+   "lesson": 2,
+   "en": "We have a lot in common.",
+   "zh": "我们有很多共同点。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-2-3",
+   "lesson": 2,
+   "en": "I'd love to grab a bite before it gets too late.",
+   "zh": "我想趁还没太晚先吃点东西。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-2-4",
+   "lesson": 2,
+   "en": "To be honest with you, I really can't stand that dark color on the walls.",
+   "zh": "说实话，我真的受不了墙上那种暗沉的颜色。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-3-1",
+   "lesson": 3,
+   "en": "Well, if you have all day, I'll describe him to you.",
+   "zh": "好吧，如果你有一整天的时间，我就给你讲讲他。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-3-2",
+   "lesson": 3,
+   "en": "But basically, do you get along with him?",
+   "zh": "不过总的来说，你跟他相处得来吗？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-3-3",
+   "lesson": 3,
+   "en": "Then at least he doesn't leave a mess in the kitchen.",
+   "zh": "那至少他不会把厨房弄得一团糟。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-3-4",
+   "lesson": 3,
+   "en": "No wonder you're getting along so well.",
+   "zh": "难怪你们相处得这么好。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-4-1",
+   "lesson": 4,
+   "en": "I haven't seen you for ages.",
+   "zh": "好久没见到你了。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-4-2",
+   "lesson": 4,
+   "en": "Do you have time for a cup of coffee?",
+   "zh": "你有空喝杯咖啡吗？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-4-3",
+   "lesson": 4,
+   "en": "We really need to catch up.",
+   "zh": "我们真得好好叙叙旧了。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-4-4",
+   "lesson": 4,
+   "en": "Let's make sure we get together more often.",
+   "zh": "以后我们一定要常聚聚。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-5-1",
+   "lesson": 5,
+   "en": "I'd like to make an appointment to see Dr. Sharpe, hopefully next week.",
+   "zh": "我想预约见夏普医生，希望能约在下周。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-5-2",
+   "lesson": 5,
+   "en": "How can I help you?",
+   "zh": "有什么我可以帮您的吗？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-5-3",
+   "lesson": 5,
+   "en": "What can I do for you?",
+   "zh": "我能为您做些什么？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-5-4",
+   "lesson": 5,
+   "en": "I need a complete physical.",
+   "zh": "我需要做一次全面体检。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-6-1",
+   "lesson": 6,
+   "en": "What's your go-to drink at Starbucks?",
+   "zh": "你去星巴克通常点什么饮料？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-6-2",
+   "lesson": 6,
+   "en": "Mind if I join you?",
+   "zh": "介意我加入吗？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-6-3",
+   "lesson": 6,
+   "en": "Just give me a heads-up if you need a ride.",
+   "zh": "如果需要搭车，提前告诉我一声。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-6-4",
+   "lesson": 6,
+   "en": "Do you want pizza or pasta? Make up your mind!",
+   "zh": "你要披萨还是意大利面？快决定吧！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-7-1",
+   "lesson": 7,
+   "en": "I feel like I aced that interview, so I'm pretty sure the job is mine.",
+   "zh": "我觉得面试表现特别好，所以很有把握得到这份工作。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-7-2",
+   "lesson": 7,
+   "en": "Get lost!",
+   "zh": "走开！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-7-3",
+   "lesson": 7,
+   "en": "I feel lost without you.",
+   "zh": "没有你，我感到不知所措。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-7-4",
+   "lesson": 7,
+   "en": "Don't lose your patience.",
+   "zh": "别失去耐心。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-8-1",
+   "lesson": 8,
+   "en": "You really know how to cheer me up.",
+   "zh": "你真懂得怎么让我振作起来。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-8-2",
+   "lesson": 8,
+   "en": "I already feel much better.",
+   "zh": "我已经感觉好多了。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-8-3",
+   "lesson": 8,
+   "en": "I care about you.",
+   "zh": "我很在乎你。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-8-4",
+   "lesson": 8,
+   "en": "You are my best friend and have been from the get-go.",
+   "zh": "你是我最好的朋友，从一开始就是。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-9-1",
+   "lesson": 9,
+   "en": "What time does the movie start?",
+   "zh": "电影几点开始？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-9-2",
+   "lesson": 9,
+   "en": "I'm looking forward to seeing this movie.",
+   "zh": "我很期待看这部电影。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-9-3",
+   "lesson": 9,
+   "en": "What are you doing tomorrow?",
+   "zh": "你明天打算做什么？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-9-4",
+   "lesson": 9,
+   "en": "We don't have to decide now, since we're still in our freshman year.",
+   "zh": "我们现在不必决定，毕竟还在读大一。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-10-1",
+   "lesson": 10,
+   "en": "Anybody else want to put their two cents in?",
+   "zh": "还有谁想发表一下看法吗？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-10-2",
+   "lesson": 10,
+   "en": "What do you think?",
+   "zh": "你怎么看？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-10-3",
+   "lesson": 10,
+   "en": "I have to agree with April and Katie on this one.",
+   "zh": "这件事上我得赞同艾普和凯蒂。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-10-4",
+   "lesson": 10,
+   "en": "She isn't known for thinking outside the box.",
+   "zh": "她并不以打破常规思考见长。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-11-1",
+   "lesson": 11,
+   "en": "Don't tell me you broke your leg.",
+   "zh": "别告诉我你把腿摔断了。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-11-2",
+   "lesson": 11,
+   "en": "So when did it happen?",
+   "zh": "这是什么时候发生的？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-11-3",
+   "lesson": 11,
+   "en": "What a bummer!",
+   "zh": "真扫兴！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-11-4",
+   "lesson": 11,
+   "en": "Sit down here for a minute and tell me all about it.",
+   "zh": "在这里坐一会儿，跟我好好讲讲。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-12-1",
+   "lesson": 12,
+   "en": "Would you like to have the loaf sliced?",
+   "zh": "您需要把这条面包切片吗？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-12-2",
+   "lesson": 12,
+   "en": "Do you have any whole wheat bread?",
+   "zh": "你们有全麦面包吗？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-12-3",
+   "lesson": 12,
+   "en": "We're out at the moment. May I suggest some rye bread?",
+   "zh": "现在卖完了。推荐您试试黑麦面包，可以吗？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-12-4",
+   "lesson": 12,
+   "en": "I'll just take a cheesecake.",
+   "zh": "我就要一个芝士蛋糕吧。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-13-1",
+   "lesson": 13,
+   "en": "Debbie and Becky are attending a party.",
+   "zh": "黛比和贝姬正在参加派对。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-13-2",
+   "lesson": 13,
+   "en": "I don't know why I let you convince me to come here. I hate parties.",
+   "zh": "真不知道我为什么会被你说服来这里。我讨厌派对。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-13-3",
+   "lesson": 13,
+   "en": "Would you get a grip? This is going to be a blast!",
+   "zh": "冷静一点，好吗？这次肯定会很好玩！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-13-4",
+   "lesson": 13,
+   "en": "Oh, no. Look who just walked in. Sheila Hampton. I can't stand her. She always gets on my case because she doesn't like the way I dress.",
+   "zh": "糟了，看看谁来了。希拉·汉普顿。我受不了她。她总因为不喜欢我的穿着而找我麻烦。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-13-5",
+   "lesson": 13,
+   "en": "What?! Did you get a load of that tiny dress she's wearing? Her belt's so tight it looks like she's being cut in half! Hey, isn't that Ernie Milton she's with?",
+   "zh": "什么？！你看见她穿的那条小裙子了吗？腰带勒得像把她截成两半！和她在一起的不是厄尼·米尔顿吗？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-13-6",
+   "lesson": 13,
+   "en": "Yeah, you're right. He's gained so much weight! And what's up with his hair?",
+   "zh": "没错。他胖了好多！他的头发又是怎么回事？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-13-7",
+   "lesson": 13,
+   "en": "What hair? I don't know what you think, but I think it's a rug.",
+   "zh": "什么头发？不知道你怎么想，我觉得那是假发。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-13-8",
+   "lesson": 13,
+   "en": "No way! You're putting me on! He was such a hunk! He's changed so much in ten years!",
+   "zh": "不会吧！你在逗我！他以前可是个大帅哥！十年变化太大了！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-13-9",
+   "lesson": 13,
+   "en": "I remember. I wonder what happened to him. Uh oh. I think Sheila's waving at us. They're both coming this way!",
+   "zh": "我记得。不知道他经历了什么。不好，希拉好像在朝我们挥手。他们两个都往这边来了！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-13-10",
+   "lesson": 13,
+   "en": "Oh, no. Run!",
+   "zh": "糟了，快跑！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-14-1",
+   "lesson": 14,
+   "en": "Bill and Liz are shopping for dinner.",
+   "zh": "比尔和莉兹正在买晚餐食材。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-14-2",
+   "lesson": 14,
+   "en": "Chicken's only twenty-nine cents a pound. Talk about rock-bottom prices!",
+   "zh": "鸡肉一磅才二十九美分，真是低到不能再低了！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-14-3",
+   "lesson": 14,
+   "en": "I know. They've been slashing their prices all week.",
+   "zh": "可不是嘛。他们整周都在大幅降价。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-14-4",
+   "lesson": 14,
+   "en": "I have an idea. Let's pick up some chicken and veggies and make a big salad tonight. We could also buy a cake for dessert.",
+   "zh": "我有个主意。买些鸡肉和蔬菜，今晚做一大份沙拉吧。还可以买个蛋糕当甜点。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-14-5",
+   "lesson": 14,
+   "en": "Great idea! Look at this pastry section. It's to die for! Just look at all these cakes! The smell of these pastries is making my mouth water.",
+   "zh": "好主意！看看糕点区，太诱人了！这么多蛋糕！闻着这些糕点，我都流口水了。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-14-6",
+   "lesson": 14,
+   "en": "Wait! Did you see the price of these cakes? They cost more than the chicken. What a rip-off! Let's just make one from scratch. It'll be a lot cheaper.",
+   "zh": "等等！看见蛋糕的价格了吗？比鸡肉还贵，真坑人！我们还是自己从头做一个吧，便宜多了。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-14-7",
+   "lesson": 14,
+   "en": "I think you're right. Let's hurry and get the checker to ring up our purchases. I'm starving!",
+   "zh": "你说得对。快让收银员结账吧，我饿坏了！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-15-1",
+   "lesson": 15,
+   "en": "George and David are at the movies.",
+   "zh": "乔治和大卫在电影院。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-15-2",
+   "lesson": 15,
+   "en": "It's a good thing we got tickets early. The movie's a sellout!",
+   "zh": "幸好我们早买了票，这部电影的票都卖光了！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-15-3",
+   "lesson": 15,
+   "en": "They must have been plugging this movie for weeks. Now it's a blockbuster!",
+   "zh": "他们肯定宣传这部电影好几个星期了，现在成了卖座大片！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-15-4",
+   "lesson": 15,
+   "en": "The critics must really be surprised that it turned out to be a sleeper.",
+   "zh": "它竟然成了意外走红的电影，影评人一定很吃惊。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-15-5",
+   "lesson": 15,
+   "en": "I'll say. They said it was going to be a bomb and that the performers couldn't act their way out of a paper bag.",
+   "zh": "可不是嘛。他们还说这会是部失败之作，演员根本不会演戏。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-15-6",
+   "lesson": 15,
+   "en": "Well, yesterday I saw a write-up where the reviewer gave it two thumbs up. He said there were a lot of funny lines.",
+   "zh": "昨天我看到一篇评论，作者大力推荐，说里面有很多好笑的台词。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-15-7",
+   "lesson": 15,
+   "en": "Reviewers never seem to agree on anything. When's this thing going to start? It should have started an hour ago. Let's get the show on the road!",
+   "zh": "影评人似乎从来意见不一。这电影什么时候开始？一小时前就该开始了，赶紧开始吧！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-16-1",
+   "lesson": 16,
+   "en": "Chris and Marie are on vacation.",
+   "zh": "克里斯和玛丽在度假。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-16-2",
+   "lesson": 16,
+   "en": "It's a good thing this B&B was able to put us up for the night. All the hotels in town were booked solid.",
+   "zh": "幸好这家民宿能让我们住一晚，镇上的酒店全都订满了。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-16-3",
+   "lesson": 16,
+   "en": "So, what should we do now? Hey, I have an idea. Tonight, let's grab a cab and hit the town. Maybe we can go sightseeing before dinner.",
+   "zh": "那现在做什么呢？有了，今晚打车去城里玩吧，也许晚饭前还能逛逛景点。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-16-4",
+   "lesson": 16,
+   "en": "And since we're on vacation, we can stay up till all hours of the night and sleep in tomorrow.",
+   "zh": "既然在度假，我们可以玩到深夜，明天睡个懒觉。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-16-5",
+   "lesson": 16,
+   "en": "Great! Then in the afternoon, we can take a dip and hang out by the pool. It'll be nice to soak up some sun.",
+   "zh": "太好了！下午可以游会儿泳，在泳池边休息，晒晒太阳一定很舒服。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-16-6",
+   "lesson": 16,
+   "en": "And tomorrow night, we could take in a movie!",
+   "zh": "明天晚上还可以看场电影！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-17-1",
+   "lesson": 17,
+   "en": "Karen's at the airport waiting for Steve to arrive.",
+   "zh": "凯伦在机场等史蒂夫到达。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-17-2",
+   "lesson": 17,
+   "en": "I'm sorry we're so late. We had an unexpected two-hour layover some place way out in the boonies. You know, I almost missed the flight entirely because of all the traffic! So I arrived late and got bumped. Luckily, they agreed to put me on standby. All I had was a carry-on, so it was easy.",
+   "zh": "抱歉，我们晚了这么久。飞机意外在一个偏远地方停了两小时。路上太堵，我差点彻底错过航班！我到得晚，座位被取消了。幸好他们同意让我候补。我只有随身行李，所以还算方便。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-17-3",
+   "lesson": 17,
+   "en": "It's a good thing you travel light. Well, with the jet lag, I imagine you're pretty wiped out.",
+   "zh": "幸好你轻装出行。加上时差，我想你一定累坏了。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-17-4",
+   "lesson": 17,
+   "en": "Actually, I'm pretty wired after all that traveling. At least I got a free ticket for being a frequent flyer!",
+   "zh": "其实折腾这一趟后我反倒很亢奋。至少作为常旅客，我还拿到了一张免费机票！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-17-5",
+   "lesson": 17,
+   "en": "So, how was it traveling on the red-eye?",
+   "zh": "那坐红眼航班感觉怎么样？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-17-6",
+   "lesson": 17,
+   "en": "It got a little bumpy for a while. Luckily, I never had to use the barf bag!",
+   "zh": "有一段时间有点颠簸，幸好没用上呕吐袋！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-18-1",
+   "lesson": 18,
+   "en": "Cecily and Jim are grabbing a bite.",
+   "zh": "塞西莉和吉姆在吃点东西。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-18-2",
+   "lesson": 18,
+   "en": "I know we were going to go Dutch for lunch, but since today's your birthday, lunch is on me.",
+   "zh": "本来说好午饭各付各的，不过今天是你生日，这顿我请。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-18-3",
+   "lesson": 18,
+   "en": "Well, I was planning on cutting down, but if you're paying, I'm going to pig out!",
+   "zh": "本来打算少吃点，不过既然你请客，我要大吃一顿！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-18-4",
+   "lesson": 18,
+   "en": "Good! It's your birthday! Have whatever you want. I feel like having a big juicy burger and a side of fries. How about you?",
+   "zh": "好啊！今天你过生日，想吃什么都行。我想来一个鲜嫩多汁的大汉堡，配薯条。你呢？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-18-5",
+   "lesson": 18,
+   "en": "I'll have the same. In fact, I think I'll also get an order of onion rings, potato salad, some baked beans, cole slaw, and some biscuits. And to satisfy my sweet tooth, I'll get a slice of chocolate pie. You know what a chocoholic I am!",
+   "zh": "我也一样。另外还想点洋葱圈、土豆沙拉、焗豆、卷心菜沙拉和小面包。为了满足我对甜食的渴望，再来一块巧克力派。你知道我多爱巧克力！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-18-6",
+   "lesson": 18,
+   "en": "Jim, your eyes are bigger than your stomach.",
+   "zh": "吉姆，你眼馋肚饱，点得比吃得下的多。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-18-7",
+   "lesson": 18,
+   "en": "Maybe you're right. Okay. Skip the salad.",
+   "zh": "也许你说得对。好吧，不要沙拉了。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-18-8",
+   "lesson": 18,
+   "en": "I have a feeling you're going to need a doggie bag for all the leftovers. And I'm going to need to get a second job to pay for this lunch!",
+   "zh": "我感觉这些剩菜得给你打包。而我得再找份工作，才能付得起这顿午饭！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-19-1",
+   "lesson": 19,
+   "en": "John's showing Mark his new car.",
+   "zh": "约翰正在给马克看他的新车。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-19-2",
+   "lesson": 19,
+   "en": "Is this your new car? It's beautiful!",
+   "zh": "这是你的新车吗？太漂亮了！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-19-3",
+   "lesson": 19,
+   "en": "Thanks. It's sure a step up from the clunker I used to have. Hop in and I'll take you for a spin.",
+   "zh": "谢谢，比以前那辆破车强多了。上来吧，我带你兜一圈。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-19-4",
+   "lesson": 19,
+   "en": "Just be careful. I know about your lead foot. You don't want to get into a fender bender! And you definitely don't want to get hauled in by a cop for speeding or running a light.",
+   "zh": "小心点，我知道你爱踩重油门。你可不想发生剐蹭，更不想因为超速或闯红灯被警察带走！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-19-5",
+   "lesson": 19,
+   "en": "Don't worry. I promise I'm not going to total my car or get arrested my first day having a new car.",
+   "zh": "放心，我保证不会刚有新车第一天就把车撞报废或被逮捕。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-19-6",
+   "lesson": 19,
+   "en": "Okay, but be careful. The road to Nancy's house is full of potholes and you don't want to get a blowout.",
+   "zh": "好吧，还是小心点。去南希家的路上到处是坑，你可不想爆胎。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-19-7",
+   "lesson": 19,
+   "en": "Don't worry! I'll take it slowly. Besides, since this is rush hour, we're not going to be able to go very fast with all the bumper-to-bumper traffic! But once it clears up, I'm going to punch it!",
+   "zh": "放心，我慢慢开。再说现在是高峰期，车挨着车也开不快。不过路一通，我就要踩油门了！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-20-1",
+   "lesson": 20,
+   "en": "Lee and David are talking about Eric.",
+   "zh": "李和大卫正在聊埃里克。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-20-2",
+   "lesson": 20,
+   "en": "I just heard that Eric flunked our psych class! Is that true?",
+   "zh": "听说埃里克心理学挂科了，是真的吗？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-20-3",
+   "lesson": 20,
+   "en": "Yeah, I can't believe it. It's never happened to him before! He always gets straight A's on the pop quizzes and he even aced the midterm. How could he possibly blow the final?",
+   "zh": "是啊，真不敢相信。以前从没这样！他突击测验总拿全优，期中也考得特别好，怎么会搞砸期末？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-20-4",
+   "lesson": 20,
+   "en": "That's because he started to cut class all the time and stopped studying. I passed it because I pulled an all-nighter trying to cram for it.",
+   "zh": "因为他后来总逃课，也不学习了。我为了临时抱佛脚熬了一整夜，才考过。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-20-5",
+   "lesson": 20,
+   "en": "I've never taken such a killer test in my life. Unfortunately for Eric, the professor isn't allowing him to take a make-up.",
+   "zh": "我从没考过这么难的考试。不幸的是，教授不允许埃里克补考。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-20-6",
+   "lesson": 20,
+   "en": "He should have dropped the class when he had the chance!",
+   "zh": "有机会的时候，他就该退掉这门课！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-21-1",
+   "lesson": 21,
+   "en": "Karen and Janet are talking on the phone.",
+   "zh": "凯伦和珍妮特正在通电话。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-21-2",
+   "lesson": 21,
+   "en": "Hi, Janet. I haven't heard from you in a while. How are you?",
+   "zh": "嗨，珍妮特，好久没你的消息了。你怎么样？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-21-3",
+   "lesson": 21,
+   "en": "I've been feeling under the weather. I felt blah all morning. Then by the afternoon, I was as sick as a dog. I started running a fever and actually thought I was going to pass out! Finally I had Brad take me to the doctor who said it was a bad case of the flu which just has to run its course. I should be raring to go soon.",
+   "zh": "最近不太舒服，整早没精神，下午更是病得厉害。我开始发烧，真以为要晕倒！最后让布拉德带我看医生，说是严重流感，只能等它自然恢复。我应该很快就能精神抖擞了。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-21-4",
+   "lesson": 21,
+   "en": "Well, it sounds like you'll definitely pull through. It takes a while to bounce back after having the flu, but I'm sure you'll be back in the pink soon. Just try to take it easy for a while.",
+   "zh": "听起来你肯定能康复。流感后恢复需要时间，但你很快就会恢复健康的。这阵子尽量好好休息。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-21-5",
+   "lesson": 21,
+   "en": "You're right but I'm too antsy to just lie in bed. I get bored out of my mind!",
+   "zh": "你说得对，可我实在闲不住，光躺床上会无聊疯的！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-21-6",
+   "lesson": 21,
+   "en": "I know what you mean. The last time I was sick, I started to go stir crazy!",
+   "zh": "我明白。上次生病时，我待在家里也快憋疯了！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-22-1",
+   "lesson": 22,
+   "en": "Susan's telling Melanie about her date.",
+   "zh": "苏珊正在向梅拉妮讲她的约会。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-22-2",
+   "lesson": 22,
+   "en": "You have to tell me about your blind date. How was it? Was he drop-dead gorgeous? Was it love at first sight?",
+   "zh": "快跟我说说你的相亲吧。怎么样？他帅呆了吗？你们一见钟情了吗？",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-22-3",
+   "lesson": 22,
+   "en": "Hardly! First of all, I waited for an hour before he finally picked me up. I just assumed that I was being stood up. Then when he finally did show up, I opened the door to find the biggest nerd standing there! By the end of the evening, he told me that he had a crush on me and then started talking about tying the knot!",
+   "zh": "才没有！我等了一小时他才来接，还以为被放鸽子了。他终于出现，我开门却发现站着个超级呆子！到晚上快结束时，他说喜欢我，接着就谈起结婚！",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-22-4",
+   "lesson": 22,
+   "en": "On the first date?! It was probably just puppy love. Listen, my advice to you is that the next time he asks you out, just turn him down and run in the opposite direction! Whatever you do, you certainly don't want to lead him on.",
+   "zh": "第一次约会就这样？！多半只是一时迷恋。我建议下次他约你就拒绝，赶紧远离！无论怎样，都别让他误以为你也喜欢他。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-22-5",
+   "lesson": 22,
+   "en": "I'm supposed to go out with another guy next week, but I've decided to break our date. I just can't go through this again.",
+   "zh": "本来下周要和另一个男生出去，不过我决定取消。我实在不想再经历一遍。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-22-6",
+   "lesson": 22,
+   "en": "Now, don't dump him before you even meet him! He may be a great guy for you. Just make sure there are no strings attached before you go out.",
+   "zh": "别还没见面就把人家甩了！他也许很适合你。出去之前说清楚不附带任何承诺就好。",
+   "category": "expression"
+  },
+  {
+   "id": "s2-real-22-7",
+   "lesson": 22,
+   "en": "Fine. You go out with him.",
+   "zh": "好啊，那你去跟他约会吧。",
+   "category": "expression"
+  }
+ ]
+}

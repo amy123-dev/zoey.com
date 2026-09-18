@@ -1,0 +1,245 @@
+[
+  {
+    "id": "s2-audio-1",
+    "lesson": 1,
+    "part": "",
+    "title": "Meeting at a Party",
+    "src": "/audio/season2/01-bb5c8676.m4a",
+    "duration": 97.43,
+    "bytes": 1579397
+  },
+  {
+    "id": "s2-audio-2",
+    "lesson": 2,
+    "part": "",
+    "title": "Getting Acquainted",
+    "src": "/audio/season2/02-d0784b50.m4a",
+    "duration": 164.14,
+    "bytes": 2658280
+  },
+  {
+    "id": "s2-audio-3",
+    "lesson": 3,
+    "part": "",
+    "title": "Talking about Roommates",
+    "src": "/audio/season2/03-efd83acb.m4a",
+    "duration": 103.6,
+    "bytes": 1679286
+  },
+  {
+    "id": "s2-audio-4",
+    "lesson": 4,
+    "part": "",
+    "title": "Running into a Friend",
+    "src": "/audio/season2/04-756f6698.m4a",
+    "duration": 167.57,
+    "bytes": 2713857
+  },
+  {
+    "id": "s2-audio-5a",
+    "lesson": 5,
+    "part": "A",
+    "title": "Making an Appointment with a Doctor",
+    "src": "/audio/season2/05a-7b420ac3.m4a",
+    "duration": 118.91,
+    "bytes": 1927128
+  },
+  {
+    "id": "s2-audio-5b",
+    "lesson": 5,
+    "part": "B",
+    "title": "Changing a Lunch Date",
+    "src": "/audio/season2/05b-a5dc379a.m4a",
+    "duration": 51.18,
+    "bytes": 831723
+  },
+  {
+    "id": "s2-audio-6",
+    "lesson": 6,
+    "part": "",
+    "title": "Looking for a New Apartment",
+    "src": "/audio/season2/06-09c2817f.m4a",
+    "duration": 174.39,
+    "bytes": 2824260
+  },
+  {
+    "id": "s2-audio-7",
+    "lesson": 7,
+    "part": "",
+    "title": "Helping a Classmate",
+    "src": "/audio/season2/07-3c86fed4.m4a",
+    "duration": 91.93,
+    "bytes": 1490775
+  },
+  {
+    "id": "s2-audio-8",
+    "lesson": 8,
+    "part": "",
+    "title": "Advice to a Friend",
+    "src": "/audio/season2/08-607fd8dc.m4a",
+    "duration": 157.43,
+    "bytes": 2549747
+  },
+  {
+    "id": "s2-audio-9a",
+    "lesson": 9,
+    "part": "A",
+    "title": "Scheduled Events",
+    "src": "/audio/season2/09a-1a53de0c.m4a",
+    "duration": 26.21,
+    "bytes": 427664
+  },
+  {
+    "id": "s2-audio-9b",
+    "lesson": 9,
+    "part": "B",
+    "title": "Plans for the Very Near Future",
+    "src": "/audio/season2/09b-7dc21600.m4a",
+    "duration": 71.46,
+    "bytes": 1159567
+  },
+  {
+    "id": "s2-audio-9c",
+    "lesson": 9,
+    "part": "C",
+    "title": "Long-term Plans",
+    "src": "/audio/season2/09c-f121bc1e.m4a",
+    "duration": 67.29,
+    "bytes": 1092349
+  },
+  {
+    "id": "s2-audio-9d",
+    "lesson": 9,
+    "part": "D",
+    "title": "Predictions for the More Distant Future",
+    "src": "/audio/season2/09d-21e6af8d.m4a",
+    "duration": 54.57,
+    "bytes": 886173
+  },
+  {
+    "id": "s2-audio-10",
+    "lesson": 10,
+    "part": "",
+    "title": "Selecting a Company Officer",
+    "src": "/audio/season2/10-5f7d486a.m4a",
+    "duration": 163.68,
+    "bytes": 2650770
+  },
+  {
+    "id": "s2-audio-11",
+    "lesson": 11,
+    "part": "",
+    "title": "A Traffic Accident",
+    "src": "/audio/season2/11-e4759b18.m4a",
+    "duration": 108.78,
+    "bytes": 1763026
+  },
+  {
+    "id": "s2-audio-12a",
+    "lesson": 12,
+    "part": "A",
+    "title": "Going to the Bakery",
+    "src": "/audio/season2/12a-a0f938ba.m4a",
+    "duration": 41.29,
+    "bytes": 720755
+  },
+  {
+    "id": "s2-audio-12b",
+    "lesson": 12,
+    "part": "B",
+    "title": "Indian Food",
+    "src": "/audio/season2/12b-46455eaa.m4a",
+    "duration": 78.2,
+    "bytes": 1281278
+  },
+  {
+    "id": "s2-audio-13",
+    "lesson": 13,
+    "part": "",
+    "title": "At the Party",
+    "src": "/audio/season2/13-07113b4f.mp3",
+    "duration": 125.28,
+    "bytes": 1503360
+  },
+  {
+    "id": "s2-audio-14",
+    "lesson": 14,
+    "part": "",
+    "title": "At the Market",
+    "src": "/audio/season2/14-f5fe21e0.mp3",
+    "duration": 100.3,
+    "bytes": 1203552
+  },
+  {
+    "id": "s2-audio-15",
+    "lesson": 15,
+    "part": "",
+    "title": "At the Movies",
+    "src": "/audio/season2/15-8d9d54ab.mp3",
+    "duration": 83.74,
+    "bytes": 1004832
+  },
+  {
+    "id": "s2-audio-16",
+    "lesson": 16,
+    "part": "",
+    "title": "On Vacation",
+    "src": "/audio/season2/16-bc10b65b.mp3",
+    "duration": 78.91,
+    "bytes": 946944
+  },
+  {
+    "id": "s2-audio-17",
+    "lesson": 17,
+    "part": "",
+    "title": "At the Airport",
+    "src": "/audio/season2/17-50f2df39.mp3",
+    "duration": 93.82,
+    "bytes": 1125792
+  },
+  {
+    "id": "s2-audio-18",
+    "lesson": 18,
+    "part": "",
+    "title": "At the Restaurant",
+    "src": "/audio/season2/18-e839d0d6.mp3",
+    "duration": 114.55,
+    "bytes": 1374624
+  },
+  {
+    "id": "s2-audio-19",
+    "lesson": 19,
+    "part": "",
+    "title": "On the Road",
+    "src": "/audio/season2/19-ad1aa512.mp3",
+    "duration": 99.22,
+    "bytes": 1190592
+  },
+  {
+    "id": "s2-audio-20",
+    "lesson": 20,
+    "part": "",
+    "title": "At School",
+    "src": "/audio/season2/20-3a7669fd.mp3",
+    "duration": 90.61,
+    "bytes": 1087344
+  },
+  {
+    "id": "s2-audio-21",
+    "lesson": 21,
+    "part": "",
+    "title": "To Your Health",
+    "src": "/audio/season2/21-f311754a.mp3",
+    "duration": 110.56,
+    "bytes": 1326672
+  },
+  {
+    "id": "s2-audio-22",
+    "lesson": 22,
+    "part": "",
+    "title": "On a Date",
+    "src": "/audio/season2/22-49292cfd.mp3",
+    "duration": 144.0,
+    "bytes": 1728000
+  }
+]

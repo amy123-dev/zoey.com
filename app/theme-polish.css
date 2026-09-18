@@ -1,0 +1,82 @@
+/* Shared theme tokens cover controls as well as reading surfaces. */
+body{font-size:16px;line-height:1.8}
+body :is(button,input,select,textarea){font-family:var(--font-sans)}
+body :is(button,a,input,select,textarea,summary):focus-visible{outline:2px solid var(--theme-focus);outline-offset:3px;box-shadow:none}
+:root[data-reading-theme=dark] :is(button,a,input,select,textarea,summary):focus-visible{outline-color:var(--theme-focus)}
+:root[data-reading-theme] :is(.primary,button.primary),:root[data-reading-theme=dark] :is(.primary,button.primary){background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+:root[data-reading-theme] :is(.primary,button.primary):hover:not(:disabled),:root[data-reading-theme=dark] :is(.primary,button.primary):hover:not(:disabled){background:var(--accent-hover);color:var(--on-accent)}
+:root[data-reading-theme] :is(.secondary,.icon-button,.s2-reveal,.word-audio-card,.writing-settings button,.recorder button){background:var(--paper);border:1px solid var(--line);color:var(--reading-strong)}
+:root[data-reading-theme] :is(.secondary,.icon-button,.s2-reveal,.word-audio-card):hover:not(:disabled){background:var(--soft);border-color:var(--theme-focus);color:var(--reading-strong)}
+:root[data-reading-theme] :is(.s2-language button[aria-pressed=true],.s2-filters button[aria-pressed=true],.brand-rail nav a.active){background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+:root[data-reading-theme] :is(.s2-content-tabs button[aria-pressed=true],.lesson-menu button.selected){background:var(--soft);color:var(--reading-strong);border-color:var(--line)}
+:root[data-reading-theme] :is(.text-button,.expression-actions button,.word-audio-inline,.extension-links a,.extension-reference){color:var(--reading-strong)}
+:root[data-reading-theme] .brand-rail{background:linear-gradient(180deg,rgba(var(--theme-rgb),.99) 0%,rgba(var(--theme-rgb),.96) 43%,rgba(var(--theme-rgb),.48) 76%,rgba(var(--theme-rgb),.16) 100%),var(--theme-photo) center bottom/cover;border-color:var(--line)}
+:root[data-reading-theme] .lesson-cover,:root[data-reading-theme] .writing-banner{background:linear-gradient(90deg,rgba(var(--theme-rgb),.97) 0%,rgba(var(--theme-rgb),.92) 45%,rgba(var(--theme-rgb),.30) 100%),var(--theme-photo) center 68%/cover;border-color:var(--line)}
+:root[data-reading-theme] .lesson-cover{min-height:168px;padding:24px 28px}
+:root[data-reading-theme] .brand-rail nav a:not(.active):hover{background:var(--soft);color:var(--reading-strong)}
+:root[data-reading-theme] :is(.rail-bottom button,.topbar,.season-switch select,.reading-theme select,.reading-theme,.season-tag){color:var(--ink);background-color:var(--paper);border-color:var(--line)}
+:root[data-reading-theme] :is(.note-examples,.extension-card,.lesson-enrichment,.word-audio-grid,.human-audio,.practice-tools,.recorder,.writing-feedback,.writing-settings){color:var(--ink);background-color:var(--paper);border-color:var(--line)}
+:root[data-reading-theme] :is(.note-examples p,.extension-card dd,.extension-card dt,.word-ipa,.s2-mode-note,.phonetic-note,.audio-sources,.recorder p){color:var(--muted)}
+:root[data-reading-theme] .selected-dot{background:var(--accent)}
+:root[data-reading-theme] .search input{color:var(--ink);background:transparent}
+:root[data-reading-theme] :is(.reading-theme select,.season-switch select){font-size:14px;min-height:42px;padding:8px 10px;border-radius:8px}
+.reading-theme{gap:8px;font-size:13px}.reading-theme select{min-width:92px}
+.season-two .page-heading{margin-bottom:24px}.season-two .page-heading h1{font-size:28px;letter-spacing:0;font-weight:600}
+.season-two .lesson-cover h2{font-size:25px;line-height:1.4;font-weight:650}
+.season-two .lesson-cover .s2-english-title{font-size:18px;line-height:1.55;margin-top:6px;color:var(--reading-strong);letter-spacing:.15px;font-weight:400}
+.s2-menu-title{display:block;min-width:0}.s2-menu-title small{display:block;color:var(--muted);font-size:12px;line-height:1.5;margin-top:3px;font-weight:400}
+.season-two .lesson-menu button{align-items:flex-start;font-size:14px;padding:10px 9px;gap:10px}
+.lesson-no,.s2-number,.s2-season-count,.heading-stamp strong,.note-title>span,.audio-duration,.audio-tools button>span,.pagination>span,.stats-grid strong{font-family:'Times New Roman',Times,serif!important;font-variant-numeric:lining-nums tabular-nums}
+.lesson-no{font-size:18px;opacity:.85}.s2-number{font-size:18px;font-weight:400}
+.season-two .s2-block{font-size:16px;line-height:1.9;margin-bottom:14px}
+.season-two .s2-block.s2-heading{font-size:17px;font-weight:600;padding-top:15px;margin-top:17px}
+.season-two .s2-section-heading h3{font-size:21px;font-weight:600}
+.season-two .s2-real-card h3{font-size:19px;font-weight:500;line-height:1.85}
+.season-two .s2-chinese{font-size:17px;line-height:1.85}
+.season-two .s2-spoken p{font-size:17px;line-height:1.85}
+.season-two .s2-ipa{font-family:'Segoe UI','Arial',sans-serif;font-size:17px;font-weight:400}
+.season-two .s2-changes strong{font-size:16px;font-weight:600}
+.season-two .s2-phrase summary strong{font-size:16px;font-weight:600}
+.course-audio{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:20px 24px;margin:20px 0;color:var(--ink)}
+.course-audio>header{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:12px}
+.audio-caption{display:flex;align-items:center;gap:7px;color:var(--muted);font-size:13px;margin-bottom:4px}
+.course-audio h3{font-size:17px;font-weight:550;line-height:1.6}
+.audio-duration{font-size:18px;color:var(--muted);white-space:nowrap}
+.course-audio audio{display:block;width:100%;height:48px;border-radius:8px;accent-color:var(--accent)}
+.audio-track-select{display:grid;gap:6px;font-size:13px;color:var(--muted);margin:12px 0}
+.audio-tools{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:12px}
+.audio-tools label{display:flex;align-items:center;gap:8px;font-size:14px;margin-left:auto;color:var(--muted)}
+.audio-tools select{width:auto;min-height:42px;color:var(--ink);background:var(--paper);border-color:var(--line)}
+.audio-tools button{font-size:13px;padding:8px 12px;min-height:42px}.audio-tools button>span{font-size:16px}
+.audio-tools button[aria-pressed=true]{background:var(--soft);border-color:var(--theme-focus)}
+.audio-loop{border-top:1px solid var(--line);margin-top:15px;padding-top:6px}.audio-loop summary{font-size:14px;color:var(--reading-strong)}
+.audio-loop p{font-size:13px;line-height:1.8;color:var(--muted);margin-top:8px}
+.audio-error{font-size:14px;margin-top:15px;color:var(--ink);border-left:3px solid var(--accent);padding-left:12px}
+.theme-credits{font-size:12px;color:var(--muted)}.theme-credits summary{font-size:12px;min-height:28px;padding:0}.theme-credits a{display:block;text-decoration:underline;padding:3px 0}
+.season-two footer{gap:15px;flex-wrap:wrap;align-items:start}
+@media(max-width:600px){:root[data-reading-theme] .brand-rail{background:var(--paper)}.season-two .page-heading h1{font-size:24px}.season-two .lesson-cover h2{font-size:22px}.season-two .lesson-cover .s2-english-title{font-size:16px}.course-audio{padding:16px}.audio-tools{gap:8px}.audio-tools label{margin-left:0}.season-two .s2-real-card h3{font-size:18px}.season-two .s2-turn-en,.season-two .s2-turn-zh{font-size:16px}.season-two .lesson-menu button{min-width:170px}.season-two .lesson-cover{padding:20px}.theme-credits{width:100%}}
+/* Personal review journal */
+.review-chart{margin:0 0 26px;padding:28px 30px;background:var(--paper);border:1px solid var(--line);border-radius:16px;color:var(--ink)}
+.review-chart header{display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap}.review-chart h2{font-size:24px}.review-chart header p{font-size:14px;color:var(--muted);margin-top:4px}.review-chart .eyebrow{color:var(--muted)}
+.chart-range{display:flex;gap:4px;padding:4px;background:var(--soft);border-radius:30px}.chart-range button{padding:8px 16px;background:transparent;border-radius:24px;color:var(--ink);font-size:14px}.chart-range button[aria-pressed=true]{background:var(--accent);color:var(--on-accent,#fff)}
+.chart-summary{display:flex;gap:14px 22px;align-items:baseline;flex-wrap:wrap;margin:24px 0 14px}.chart-summary>strong{font:36px/1.2 'Times New Roman',serif}.chart-summary strong small{font:14px var(--font-sans);color:var(--muted)}.chart-summary>span{font-size:14px;color:var(--muted)}.chart-summary>span:last-child{margin-left:auto;font-family:'Times New Roman',serif}
+.chart-detail{display:flex;gap:16px;flex-wrap:wrap;min-height:42px;font-size:14px;align-items:center;color:var(--muted)}.chart-detail strong{color:var(--ink);font-weight:600}.chart-detail>span:first-child{font-family:'Times New Roman',serif}
+.chart-scroll{overflow-x:auto;padding-top:16px}.chart-canvas{display:flex;height:266px;min-width:300px}.chart-month{min-width:940px}.chart-axis{width:34px;flex-shrink:0;display:flex;flex-direction:column;justify-content:space-between;height:228px;font:14px 'Times New Roman',serif;color:var(--muted);transform:translateY(-7px)}.chart-plot{position:relative;flex:1;min-width:0}.chart-grid{position:absolute;inset:0 0 38px;display:flex;flex-direction:column;justify-content:space-between;pointer-events:none}.chart-grid i{border-top:1px dashed var(--line);width:100%}.chart-columns{position:relative;display:flex;justify-content:space-around;height:100%;gap:5px;padding:0 8px}.chart-column{flex:1;min-width:24px;min-height:44px;display:flex;flex-direction:column;gap:0;padding:0;background:transparent;color:var(--ink);border-radius:4px}.chart-bar-space{display:flex;align-items:flex-end;justify-content:center;width:100%;height:228px}.chart-bar{position:relative;display:block;background:var(--accent);opacity:.7;width:62%;max-width:44px;border-radius:7px 7px 0 0;min-height:0}.chart-column[aria-pressed=true] .chart-bar,.chart-column:hover .chart-bar{opacity:1}.chart-value{position:absolute;bottom:100%;left:50%;transform:translateX(-50%);font:14px/1.5 'Times New Roman',serif;color:var(--ink)}.chart-date{height:38px;padding-top:10px;font:14px 'Times New Roman',serif;color:var(--muted)}.chart-column:focus-visible{outline:2px solid var(--accent);outline-offset:1px}.chart-note,.chart-empty{font-size:14px;color:var(--muted);margin-top:16px}.chart-empty{padding:14px;background:var(--soft);border-radius:8px;color:var(--ink)}
+:root[data-reading-theme] .brand-rail{background-image:linear-gradient(180deg,rgba(var(--theme-rgb),.99) 0%,rgba(var(--theme-rgb),.96) 43%,rgba(var(--theme-rgb),.65) 76%,rgba(var(--theme-rgb),.90) 100%),var(--theme-photo)}
+:root[data-reading-theme] .rail-bottom{padding:38px 10px 0;color:var(--ink)}
+:root[data-reading-theme] .rail-bottom .rail-quote{font-family:'Palatino Linotype','Book Antiqua',Georgia,serif;font-style:italic;font-weight:400;font-size:27px;line-height:1.38;letter-spacing:-.5px;margin:18px 0 14px;text-wrap:balance}
+:root[data-reading-theme] .rail-bottom .rail-translation{font-family:'Microsoft YaHei',sans-serif;display:block;font-size:12px;letter-spacing:.4px;line-height:1.8;color:var(--ink)}
+:root[data-reading-theme] .rail-bottom .rail-share{width:100%;margin-top:26px;min-height:44px;padding:10px 0;background:transparent;color:var(--ink);border:0;border-top:1px solid color-mix(in srgb,var(--ink) 25%,transparent);border-radius:0;box-shadow:none;justify-content:space-between;font-size:14px;white-space:nowrap;gap:8px}
+:root[data-reading-theme] .rail-bottom .rail-share:hover{background:transparent;color:var(--accent);text-decoration:underline;text-underline-offset:5px}.rail-share svg{flex-shrink:0}
+@media(max-width:600px){.review-chart{padding:20px 16px}.review-chart h2{font-size:22px}.chart-summary>span:last-child{margin-left:0;width:100%}.chart-range button{padding:8px 14px}.chart-canvas{min-width:275px}.chart-detail{gap:10px}.chart-month{min-width:940px}}
+/* Examples sit inside definitions, like notes in a reading journal. */
+.s2-phrase-body .s2-phrase-example{margin-left:clamp(18px,3vw,36px);padding-left:16px;border-left:2px solid var(--line)}
+.s2-phrase-example .s2-block p{font-size:16px;line-height:1.9}
+.s2-phrase-example+.s2-phrase-example{margin-top:-4px}
+@media(max-width:600px){.s2-phrase-body .s2-phrase-example{margin-left:16px;padding-left:12px}}
+
+:root[data-reading-theme] .rail-bottom .rail-quote{font-size:23px;letter-spacing:-.6px;line-height:1.5;text-wrap:initial}
+.rail-quote>span{display:block;white-space:nowrap}
+.selection-dictionary{position:fixed;z-index:100;display:flex;padding:5px;background:var(--paper);color:var(--ink);border:1px solid var(--line);box-shadow:0 6px 24px #0002;border-radius:12px;gap:4px}.selection-dictionary button{background:transparent;color:inherit;padding:8px 12px;border-radius:8px;font-size:14px}.selection-dictionary button:hover{background:var(--soft)}
+.dictionary-dialog{padding:0;border:1px solid var(--line);border-radius:18px;max-width:740px;width:calc(100% - 28px);max-height:85dvh;background:var(--paper);color:var(--ink)}.dictionary-dialog::backdrop{background:#10182070}.dictionary-panel{padding:26px}.dictionary-panel header{display:flex;justify-content:space-between;gap:18px;align-items:start}.dictionary-panel header small{color:var(--muted);font-size:13px}.dictionary-panel h2{font-family:Georgia,serif;font-size:30px;overflow-wrap:anywhere}.dictionary-controls{display:flex;align-items:center;flex-wrap:wrap;gap:16px;border-bottom:1px solid var(--line);padding:18px 0;margin-bottom:20px}.dictionary-controls>span{font-size:13px;color:var(--muted)}.dictionary-definition{font-size:16px;line-height:1.9;overflow-wrap:anywhere;white-space:pre-wrap}.dictionary-definition p+p{margin-top:12px}.dictionary-error{background:var(--soft);padding:16px;border-radius:10px}.dictionary-error button{margin-left:12px}.dictionary-dialog button:focus-visible,.selection-dictionary button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}@media(max-width:600px){.dictionary-panel{padding:20px}.dictionary-dialog{max-height:90dvh}.dictionary-definition{font-size:16px}}
+.dictionary-dialog{margin:auto;inset:0}.dictionary-definition .dictionary-example{margin-left:20px;padding-left:14px;border-left:2px solid var(--line)}

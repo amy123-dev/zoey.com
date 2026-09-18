@@ -1,0 +1,1581 @@
+{
+  "about": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=about&type=2",
+    "ipa": "əˈbaʊt",
+    "source": "https://dict.youdao.com/result?word=about&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "above": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=above&type=2",
+    "ipa": "əˈbʌv",
+    "source": "https://dict.youdao.com/result?word=above&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "advantage": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=advantage&type=2",
+    "ipa": "ədˈvæntɪdʒ",
+    "source": "https://dict.youdao.com/result?word=advantage&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "and": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=and&type=2",
+    "ipa": "ænd; ənd",
+    "source": "https://dict.youdao.com/result?word=and&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "answer": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=answer&type=2",
+    "ipa": "ˈænsər",
+    "source": "https://dict.youdao.com/result?word=answer&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "answered": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=answered&type=2",
+    "ipa": "ˈænsər",
+    "source": "https://dict.youdao.com/result?word=answered&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "appetizer": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=appetizer&type=2",
+    "ipa": "ˈæpɪtaɪzər",
+    "source": "https://dict.youdao.com/result?word=appetizer&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "asked": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=asked&type=2",
+    "ipa": "æskt",
+    "source": "https://dict.youdao.com/result?word=asked&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "back": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=back&type=2",
+    "ipa": "bæk",
+    "source": "https://dict.youdao.com/result?word=back&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "bad": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=bad&type=2",
+    "ipa": "bæd",
+    "source": "https://dict.youdao.com/result?word=bad&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "bag": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=bag&type=2",
+    "ipa": "bæɡ",
+    "source": "https://dict.youdao.com/result?word=bag&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "bat": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=bat&type=2",
+    "ipa": "bæt",
+    "source": "https://dict.youdao.com/result?word=bat&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "beat": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=beat&type=2",
+    "ipa": "biːt",
+    "source": "https://dict.youdao.com/result?word=beat&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "bed": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=bed&type=2",
+    "ipa": "bed",
+    "source": "https://dict.youdao.com/result?word=bed&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "beds": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=beds&type=2",
+    "ipa": "bedz",
+    "source": "https://dict.youdao.com/result?word=beds&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "bees": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=bees&type=2",
+    "ipa": "biːz",
+    "source": "https://dict.youdao.com/result?word=bees&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "bell": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=bell&type=2",
+    "ipa": "bel",
+    "source": "https://dict.youdao.com/result?word=bell&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "ben": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=Ben&type=2",
+    "ipa": "ben",
+    "source": "https://dict.youdao.com/result?word=ben&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "best": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=best&type=2",
+    "ipa": "best",
+    "source": "https://dict.youdao.com/result?word=best&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "bet": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=bet&type=2",
+    "ipa": "bet",
+    "source": "https://dict.youdao.com/result?word=bet&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "better": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=better&type=2",
+    "ipa": "ˈbetər",
+    "source": "https://dict.youdao.com/result?word=better&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "bill": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=bill&type=2",
+    "ipa": "bɪl",
+    "source": "https://dict.youdao.com/result?word=bill&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "bird": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=bird&type=2",
+    "ipa": "bɜːrd",
+    "source": "https://dict.youdao.com/result?word=bird&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "bit": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=bit&type=2",
+    "ipa": "bɪt",
+    "source": "https://dict.youdao.com/result?word=bit&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "blackboard": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=blackboard&type=2",
+    "ipa": "ˈblækbɔːrd",
+    "source": "https://dict.youdao.com/result?word=blackboard&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "boat": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=boat&type=2",
+    "ipa": "boʊt",
+    "source": "https://dict.youdao.com/result?word=boat&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "book": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=book&type=2",
+    "ipa": "bʊk",
+    "source": "https://dict.youdao.com/result?word=book&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "bow": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=bow&type=2",
+    "ipa": "baʊ; boʊ",
+    "source": "https://dict.youdao.com/result?word=bow&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "box": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=box&type=2",
+    "ipa": "bɑːks",
+    "source": "https://dict.youdao.com/result?word=box&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "boxes": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=boxes&type=2",
+    "ipa": "bɑːksɪz",
+    "source": "https://dict.youdao.com/result?word=boxes&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "breath": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=breath&type=2",
+    "ipa": "breθ",
+    "source": "https://dict.youdao.com/result?word=breath&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "breathe": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=breathe&type=2",
+    "ipa": "briːð",
+    "source": "https://dict.youdao.com/result?word=breathe&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "brother": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=brother&type=2",
+    "ipa": "ˈbrʌðər",
+    "source": "https://dict.youdao.com/result?word=brother&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "bus": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=bus&type=2",
+    "ipa": "bʌs",
+    "source": "https://dict.youdao.com/result?word=bus&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "cab": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=cab&type=2",
+    "ipa": "kæb",
+    "source": "https://dict.youdao.com/result?word=cab&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "can": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=can&type=2",
+    "ipa": "kæn; kən",
+    "source": "https://dict.youdao.com/result?word=can&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "cap": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=cap&type=2",
+    "ipa": "kæp",
+    "source": "https://dict.youdao.com/result?word=cap&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "car": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=car&type=2",
+    "ipa": "kɑːr",
+    "source": "https://dict.youdao.com/result?word=car&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "cartoon": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=cartoon&type=2",
+    "ipa": "kɑːrˈtuːn",
+    "source": "https://dict.youdao.com/result?word=cartoon&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "cats": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=cats&type=2",
+    "ipa": "kæts",
+    "source": "https://dict.youdao.com/result?word=cats&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "champagne": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=champagne&type=2",
+    "ipa": "ʃæmˈpeɪn",
+    "source": "https://dict.youdao.com/result?word=champagne&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "chance": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=chance&type=2",
+    "ipa": "tʃæns",
+    "source": "https://dict.youdao.com/result?word=chance&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "cheap": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=cheap&type=2",
+    "ipa": "tʃiːp",
+    "source": "https://dict.youdao.com/result?word=cheap&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "chin": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=chin&type=2",
+    "ipa": "tʃɪn",
+    "source": "https://dict.youdao.com/result?word=chin&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "classes": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=classes&type=2",
+    "ipa": "ˈklæsɪz",
+    "source": "https://dict.youdao.com/result?word=classes&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "coat": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=coat&type=2",
+    "ipa": "koʊt",
+    "source": "https://dict.youdao.com/result?word=coat&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "country": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=country&type=2",
+    "ipa": "ˈkʌntri",
+    "source": "https://dict.youdao.com/result?word=country&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "cow": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=cow&type=2",
+    "ipa": "kaʊ",
+    "source": "https://dict.youdao.com/result?word=cow&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "cup": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=cup&type=2",
+    "ipa": "kʌp",
+    "source": "https://dict.youdao.com/result?word=cup&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "cups": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=cups&type=2",
+    "ipa": "kʌps",
+    "source": "https://dict.youdao.com/result?word=cups&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "curtain": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=curtain&type=2",
+    "ipa": "ˈkɜːrt(ə)n",
+    "source": "https://dict.youdao.com/result?word=curtain&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "dance": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=dance&type=2",
+    "ipa": "dæns",
+    "source": "https://dict.youdao.com/result?word=dance&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "danish": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=Danish&type=2",
+    "ipa": "ˈdeɪnɪʃ",
+    "source": "https://dict.youdao.com/result?word=danish&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "days": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=days&type=2",
+    "ipa": "deɪz",
+    "source": "https://dict.youdao.com/result?word=days&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "debts": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=debts&type=2",
+    "ipa": "dets",
+    "source": "https://dict.youdao.com/result?word=debts&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "dog": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=dog&type=2",
+    "ipa": "dɔːɡ",
+    "source": "https://dict.youdao.com/result?word=dog&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "dogs": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=dogs&type=2",
+    "ipa": "dɔːɡz",
+    "source": "https://dict.youdao.com/result?word=dogs&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "dream": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=dream&type=2",
+    "ipa": "driːm",
+    "source": "https://dict.youdao.com/result?word=dream&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "dry": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=dry&type=2",
+    "ipa": "draɪ",
+    "source": "https://dict.youdao.com/result?word=dry&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "english": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=english&type=2",
+    "ipa": "ˈɪŋɡlɪʃ",
+    "source": "https://dict.youdao.com/result?word=english&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "enter": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=enter&type=2",
+    "ipa": "ˈentər",
+    "source": "https://dict.youdao.com/result?word=enter&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "example": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=example&type=2",
+    "ipa": "ɪɡˈzæmp(ə)l",
+    "source": "https://dict.youdao.com/result?word=example&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "fan": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=fan&type=2",
+    "ipa": "fæn",
+    "source": "https://dict.youdao.com/result?word=fan&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "fast": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=fast&type=2",
+    "ipa": "fæst",
+    "source": "https://dict.youdao.com/result?word=fast&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "father": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=father&type=2",
+    "ipa": "ˈfɑːðər",
+    "source": "https://dict.youdao.com/result?word=father&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "feel": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=feel&type=2",
+    "ipa": "fiːl",
+    "source": "https://dict.youdao.com/result?word=feel&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "fine": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=fine&type=2",
+    "ipa": "faɪn",
+    "source": "https://dict.youdao.com/result?word=fine&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "five": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=five&type=2",
+    "ipa": "faɪv",
+    "source": "https://dict.youdao.com/result?word=five&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "food": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=food&type=2",
+    "ipa": "fuːd",
+    "source": "https://dict.youdao.com/result?word=food&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "fool": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=fool&type=2",
+    "ipa": "fuːl",
+    "source": "https://dict.youdao.com/result?word=fool&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "foot": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=foot&type=2",
+    "ipa": "fʊt",
+    "source": "https://dict.youdao.com/result?word=foot&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "friend": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=friend&type=2",
+    "ipa": "frend",
+    "source": "https://dict.youdao.com/result?word=friend&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "full": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=full&type=2",
+    "ipa": "fʊl",
+    "source": "https://dict.youdao.com/result?word=full&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "fur": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=fur&type=2",
+    "ipa": "fɜːr",
+    "source": "https://dict.youdao.com/result?word=fur&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "germ": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=germ&type=2",
+    "ipa": "dʒɜːrm",
+    "source": "https://dict.youdao.com/result?word=germ&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "gin": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=gin&type=2",
+    "ipa": "dʒɪn",
+    "source": "https://dict.youdao.com/result?word=gin&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "glass": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=glass&type=2",
+    "ipa": "ɡlæs",
+    "source": "https://dict.youdao.com/result?word=glass&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "go": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=go&type=2",
+    "ipa": "ɡoʊ",
+    "source": "https://dict.youdao.com/result?word=go&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "good": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=good&type=2",
+    "ipa": "ɡʊd",
+    "source": "https://dict.youdao.com/result?word=good&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "goodbye": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=goodbye&type=2",
+    "ipa": "ˌɡʊdˈbaɪ",
+    "source": "https://dict.youdao.com/result?word=goodbye&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "half": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=half&type=2",
+    "ipa": "hæf",
+    "source": "https://dict.youdao.com/result?word=half&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "hands": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=hands&type=2",
+    "ipa": "hændz",
+    "source": "https://dict.youdao.com/result?word=hands&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "heater": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=heater&type=2",
+    "ipa": "ˈhiːtər",
+    "source": "https://dict.youdao.com/result?word=heater&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "her": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=her&type=2",
+    "ipa": "hɜːr; hər",
+    "source": "https://dict.youdao.com/result?word=her&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "herbal": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=herbal&type=2",
+    "ipa": "ˈɜːrb(ə)l",
+    "source": "https://dict.youdao.com/result?word=herbal&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "hill": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=hill&type=2",
+    "ipa": "hɪl",
+    "source": "https://dict.youdao.com/result?word=hill&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "him": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=him&type=2",
+    "ipa": "hɪm; ɪm",
+    "source": "https://dict.youdao.com/result?word=him&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "his": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=his&type=2",
+    "ipa": "hɪz; ɪz",
+    "source": "https://dict.youdao.com/result?word=his&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "home": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=home&type=2",
+    "ipa": "hoʊm",
+    "source": "https://dict.youdao.com/result?word=home&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "hot": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=hot&type=2",
+    "ipa": "hɑːt",
+    "source": "https://dict.youdao.com/result?word=hot&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "house": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=house&type=2",
+    "ipa": "haʊs",
+    "source": "https://dict.youdao.com/result?word=house&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "interactive": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=interactive&type=2",
+    "ipa": "ˌɪntərˈæktɪv",
+    "source": "https://dict.youdao.com/result?word=interactive&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "interface": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=interface&type=2",
+    "ipa": "ˈɪntərfeɪs",
+    "source": "https://dict.youdao.com/result?word=interface&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "interfere": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=interfere&type=2",
+    "ipa": "ˌɪntərˈfɪr",
+    "source": "https://dict.youdao.com/result?word=interfere&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "international": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=international&type=2",
+    "ipa": "ˌɪntərˈnæʃ(ə)nəl",
+    "source": "https://dict.youdao.com/result?word=international&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "internet": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=internet&type=2",
+    "ipa": "ˈɪntərnet",
+    "source": "https://dict.youdao.com/result?word=internet&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "interrupt": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=interrupt&type=2",
+    "ipa": "ˌɪntəˈrʌpt",
+    "source": "https://dict.youdao.com/result?word=interrupt&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "interstate": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=interstate&type=2",
+    "ipa": "ˈɪntərsteɪt",
+    "source": "https://dict.youdao.com/result?word=interstate&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "interview": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=interview&type=2",
+    "ipa": "ˈɪntərvjuː",
+    "source": "https://dict.youdao.com/result?word=interview&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "jeep": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=jeep&type=2",
+    "ipa": "dʒiːp",
+    "source": "https://dict.youdao.com/result?word=jeep&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "last": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=last&type=2",
+    "ipa": "læst",
+    "source": "https://dict.youdao.com/result?word=last&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "leave": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=leave&type=2",
+    "ipa": "liːv",
+    "source": "https://dict.youdao.com/result?word=leave&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "leisure": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=leisure&type=2",
+    "ipa": "ˈliːʒər",
+    "source": "https://dict.youdao.com/result?word=leisure&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "light": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=light&type=2",
+    "ipa": "laɪt",
+    "source": "https://dict.youdao.com/result?word=light&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "lighter": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=lighter&type=2",
+    "ipa": "ˈlaɪtər",
+    "source": "https://dict.youdao.com/result?word=lighter&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "likes": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=likes&type=2",
+    "ipa": "laɪks",
+    "source": "https://dict.youdao.com/result?word=likes&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "live": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=live&type=2",
+    "ipa": "lɪv; laɪv",
+    "source": "https://dict.youdao.com/result?word=live&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "lock": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=lock&type=2",
+    "ipa": "lɑːk",
+    "source": "https://dict.youdao.com/result?word=lock&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "look": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=look&type=2",
+    "ipa": "lʊk",
+    "source": "https://dict.youdao.com/result?word=look&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "low": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=low&type=2",
+    "ipa": "loʊ",
+    "source": "https://dict.youdao.com/result?word=low&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "luck": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=luck&type=2",
+    "ipa": "lʌk",
+    "source": "https://dict.youdao.com/result?word=luck&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "luke": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=luke&type=2",
+    "ipa": "luːk",
+    "source": "https://dict.youdao.com/result?word=luke&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "lunch": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=lunch&type=2",
+    "ipa": "lʌntʃ",
+    "source": "https://dict.youdao.com/result?word=lunch&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "martin": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=martin&type=2",
+    "ipa": "ˈmɑːrtn",
+    "source": "https://dict.youdao.com/result?word=martin&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "measure": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=measure&type=2",
+    "ipa": "ˈmeʒər",
+    "source": "https://dict.youdao.com/result?word=measure&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "memory": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=memory&type=2",
+    "ipa": "ˈmeməri",
+    "source": "https://dict.youdao.com/result?word=memory&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "missed": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=missed&type=2",
+    "ipa": "mɪst",
+    "source": "https://dict.youdao.com/result?word=missed&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "money": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=money&type=2",
+    "ipa": "ˈmʌni",
+    "source": "https://dict.youdao.com/result?word=money&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "morning": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=morning&type=2",
+    "ipa": "ˈmɔːrnɪŋ",
+    "source": "https://dict.youdao.com/result?word=morning&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "mountain": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=mountain&type=2",
+    "ipa": "ˈmaʊnt(ə)n",
+    "source": "https://dict.youdao.com/result?word=mountain&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "my": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=my&type=2",
+    "ipa": "maɪ",
+    "source": "https://dict.youdao.com/result?word=my&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "needed": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=needed&type=2",
+    "ipa": "ˈniːdɪd",
+    "source": "https://dict.youdao.com/result?word=needed&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "nervous": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=nervous&type=2",
+    "ipa": "ˈnɜːrvəs",
+    "source": "https://dict.youdao.com/result?word=nervous&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "nose": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=nose&type=2",
+    "ipa": "noʊz",
+    "source": "https://dict.youdao.com/result?word=nose&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "now": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=now&type=2",
+    "ipa": "naʊ",
+    "source": "https://dict.youdao.com/result?word=now&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "one": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=one&type=2",
+    "ipa": "wʌn",
+    "source": "https://dict.youdao.com/result?word=one&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "or": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=or&type=2",
+    "ipa": "ɔːr",
+    "source": "https://dict.youdao.com/result?word=or&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "pack": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=pack&type=2",
+    "ipa": "pæk",
+    "source": "https://dict.youdao.com/result?word=pack&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "pain": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=pain&type=2",
+    "ipa": "peɪn",
+    "source": "https://dict.youdao.com/result?word=pain&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "park": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=park&type=2",
+    "ipa": "pɑːrk",
+    "source": "https://dict.youdao.com/result?word=park&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "pass": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=pass&type=2",
+    "ipa": "pæs",
+    "source": "https://dict.youdao.com/result?word=pass&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "pat": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=pat&type=2",
+    "ipa": "pæt",
+    "source": "https://dict.youdao.com/result?word=pat&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "pen": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=pen&type=2",
+    "ipa": "pen",
+    "source": "https://dict.youdao.com/result?word=pen&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "pentagon": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=pentagon&type=2",
+    "ipa": "ˈpentəɡɑːn",
+    "source": "https://dict.youdao.com/result?word=pentagon&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "percentage": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=percentage&type=2",
+    "ipa": "pərˈsentɪdʒ",
+    "source": "https://dict.youdao.com/result?word=percentage&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "perfect": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=perfect&type=2",
+    "ipa": "ˈpɜːrfɪkt",
+    "source": "https://dict.youdao.com/result?word=perfect&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "permanent": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=permanent&type=2",
+    "ipa": "ˈpɜːrmənənt",
+    "source": "https://dict.youdao.com/result?word=permanent&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "pin": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=pin&type=2",
+    "ipa": "pɪn",
+    "source": "https://dict.youdao.com/result?word=pin&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "played": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=played&type=2",
+    "ipa": "pleɪd",
+    "source": "https://dict.youdao.com/result?word=played&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "plus": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=plus&type=2",
+    "ipa": "plʌs",
+    "source": "https://dict.youdao.com/result?word=plus&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "pool": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=pool&type=2",
+    "ipa": "puːl",
+    "source": "https://dict.youdao.com/result?word=pool&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "pot": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=pot&type=2",
+    "ipa": "pɑːt",
+    "source": "https://dict.youdao.com/result?word=pot&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "pressure": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=pressure&type=2",
+    "ipa": "ˈpreʃər",
+    "source": "https://dict.youdao.com/result?word=pressure&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "printed": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=printed&type=2",
+    "ipa": "ˈprɪntɪd",
+    "source": "https://dict.youdao.com/result?word=printed&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "printout": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=printout&type=2",
+    "ipa": "ˈprɪntaʊt",
+    "source": "https://dict.youdao.com/result?word=printout&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "professor": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=professor&type=2",
+    "ipa": "prəˈfesər",
+    "source": "https://dict.youdao.com/result?word=professor&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "pull": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=pull&type=2",
+    "ipa": "pʊl",
+    "source": "https://dict.youdao.com/result?word=pull&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "run": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=run&type=2",
+    "ipa": "rʌn",
+    "source": "https://dict.youdao.com/result?word=run&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "seat": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=seat&type=2",
+    "ipa": "siːt",
+    "source": "https://dict.youdao.com/result?word=seat&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "sheep": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=sheep&type=2",
+    "ipa": "ʃiːp",
+    "source": "https://dict.youdao.com/result?word=sheep&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "sheets": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=sheets&type=2",
+    "ipa": "ʃiːts",
+    "source": "https://dict.youdao.com/result?word=sheets&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "ship": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=ship&type=2",
+    "ipa": "ʃɪp",
+    "source": "https://dict.youdao.com/result?word=ship&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "ships": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=ships&type=2",
+    "ipa": "ʃɪps",
+    "source": "https://dict.youdao.com/result?word=ships&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "shirt": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=shirt&type=2",
+    "ipa": "ʃɜːrt",
+    "source": "https://dict.youdao.com/result?word=shirt&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "shirts": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=shirts&type=2",
+    "ipa": "ʃɜːrts",
+    "source": "https://dict.youdao.com/result?word=shirts&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "short": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=short&type=2",
+    "ipa": "ʃɔːrt",
+    "source": "https://dict.youdao.com/result?word=short&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "shrink": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=shrink&type=2",
+    "ipa": "ʃrɪŋk",
+    "source": "https://dict.youdao.com/result?word=shrink&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "sin": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=sin&type=2",
+    "ipa": "sɪn",
+    "source": "https://dict.youdao.com/result?word=sin&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "sing": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=sing&type=2",
+    "ipa": "sɪŋ",
+    "source": "https://dict.youdao.com/result?word=sing&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "sit": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=sit&type=2",
+    "ipa": "sɪt",
+    "source": "https://dict.youdao.com/result?word=sit&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "some": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=some&type=2",
+    "ipa": "sʌm; səm",
+    "source": "https://dict.youdao.com/result?word=some&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "sport": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=sport&type=2",
+    "ipa": "spɔːrt",
+    "source": "https://dict.youdao.com/result?word=sport&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "stayed": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=stayed&type=2",
+    "ipa": "steɪd",
+    "source": "https://dict.youdao.com/result?word=stayed&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "stop": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=stop&type=2",
+    "ipa": "stɑːp",
+    "source": "https://dict.youdao.com/result?word=stop&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "studied": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=studied&type=2",
+    "ipa": "ˈstʌdid",
+    "source": "https://dict.youdao.com/result?word=studied&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "study": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=study&type=2",
+    "ipa": "ˈstʌdi",
+    "source": "https://dict.youdao.com/result?word=study&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "stuffed": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=stuffed&type=2",
+    "ipa": "stʌft",
+    "source": "https://dict.youdao.com/result?word=stuffed&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "subway": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=subway&type=2",
+    "ipa": "ˈsʌbweɪ",
+    "source": "https://dict.youdao.com/result?word=subway&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "suffer": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=suffer&type=2",
+    "ipa": "ˈsʌfər",
+    "source": "https://dict.youdao.com/result?word=suffer&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "sum": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=sum&type=2",
+    "ipa": "sʌm; səm",
+    "source": "https://dict.youdao.com/result?word=sum&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "sun": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=sun&type=2",
+    "ipa": "sʌn",
+    "source": "https://dict.youdao.com/result?word=sun&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "sung": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=sung&type=2",
+    "ipa": "sʌŋ",
+    "source": "https://dict.youdao.com/result?word=sung&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "talk": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=talk&type=2",
+    "ipa": "tɔːk",
+    "source": "https://dict.youdao.com/result?word=talk&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "talked": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=talked&type=2",
+    "ipa": "tɔːkt",
+    "source": "https://dict.youdao.com/result?word=talked&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "teacher": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=teacher&type=2",
+    "ipa": "ˈtiːtʃər",
+    "source": "https://dict.youdao.com/result?word=teacher&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "temporary": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=temporary&type=2",
+    "ipa": "ˈtempəreri",
+    "source": "https://dict.youdao.com/result?word=temporary&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "ten": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=ten&type=2",
+    "ipa": "ten",
+    "source": "https://dict.youdao.com/result?word=ten&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "terminal": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=terminal&type=2",
+    "ipa": "ˈtɜːrmɪn(ə)l",
+    "source": "https://dict.youdao.com/result?word=terminal&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "terrific": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=terrific&type=2",
+    "ipa": "təˈrɪfɪk",
+    "source": "https://dict.youdao.com/result?word=terrific&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "then": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=then&type=2",
+    "ipa": "ðen",
+    "source": "https://dict.youdao.com/result?word=then&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "thin": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=thin&type=2",
+    "ipa": "θɪn",
+    "source": "https://dict.youdao.com/result?word=thin&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "think": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=think&type=2",
+    "ipa": "θɪŋk",
+    "source": "https://dict.youdao.com/result?word=think&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "this": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=this&type=2",
+    "ipa": "ðɪs",
+    "source": "https://dict.youdao.com/result?word=this&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "three": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=three&type=2",
+    "ipa": "θriː",
+    "source": "https://dict.youdao.com/result?word=three&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "thumb": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=thumb&type=2",
+    "ipa": "θʌm",
+    "source": "https://dict.youdao.com/result?word=thumb&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "thunder": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=thunder&type=2",
+    "ipa": "ˈθʌndər",
+    "source": "https://dict.youdao.com/result?word=thunder&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "time": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=time&type=2",
+    "ipa": "taɪm",
+    "source": "https://dict.youdao.com/result?word=time&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "tin": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=tin&type=2",
+    "ipa": "tɪn",
+    "source": "https://dict.youdao.com/result?word=tin&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "to": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=to&type=2",
+    "ipa": "tuː; tə",
+    "source": "https://dict.youdao.com/result?word=to&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "today": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=today&type=2",
+    "ipa": "təˈdeɪ",
+    "source": "https://dict.youdao.com/result?word=today&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "tomorrow": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=tomorrow&type=2",
+    "ipa": "təˈmɑːroʊ",
+    "source": "https://dict.youdao.com/result?word=tomorrow&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "tonight": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=tonight&type=2",
+    "ipa": "təˈnaɪt",
+    "source": "https://dict.youdao.com/result?word=tonight&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "top": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=top&type=2",
+    "ipa": "tɑːp",
+    "source": "https://dict.youdao.com/result?word=top&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "treasure": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=treasure&type=2",
+    "ipa": "ˈtreʒər",
+    "source": "https://dict.youdao.com/result?word=treasure&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "tree": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=tree&type=2",
+    "ipa": "triː",
+    "source": "https://dict.youdao.com/result?word=tree&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "trust": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=trust&type=2",
+    "ipa": "trʌst",
+    "source": "https://dict.youdao.com/result?word=trust&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "twenty": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=twenty&type=2",
+    "ipa": "ˈtwenti",
+    "source": "https://dict.youdao.com/result?word=twenty&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "van": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=van&type=2",
+    "ipa": "væn",
+    "source": "https://dict.youdao.com/result?word=van&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "veal": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=veal&type=2",
+    "ipa": "viːl",
+    "source": "https://dict.youdao.com/result?word=veal&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "vegan": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=vegan&type=2",
+    "ipa": "ˈviːɡən",
+    "source": "https://dict.youdao.com/result?word=vegan&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "vegetables": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=vegetables&type=2",
+    "ipa": "ˈvedʒtəb(ə)lz",
+    "source": "https://dict.youdao.com/result?word=vegetables&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "veggies": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=veggies&type=2",
+    "ipa": "ˈvedʒiz",
+    "source": "https://dict.youdao.com/result?word=veggies&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "vibe": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=vibe&type=2",
+    "ipa": "vaɪb",
+    "source": "https://dict.youdao.com/result?word=vibe&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "vibes": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=vibes&type=2",
+    "ipa": "vaɪbz",
+    "source": "https://dict.youdao.com/result?word=vibes&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "vine": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=vine&type=2",
+    "ipa": "vaɪn",
+    "source": "https://dict.youdao.com/result?word=vine&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "vision": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=vision&type=2",
+    "ipa": "ˈvɪʒ(ə)n",
+    "source": "https://dict.youdao.com/result?word=vision&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "visited": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=visited&type=2",
+    "ipa": "ˈvɪzɪtɪd",
+    "source": "https://dict.youdao.com/result?word=visited&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "vitamins": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=vitamins&type=2",
+    "ipa": "ˈvaɪtəmɪnz",
+    "source": "https://dict.youdao.com/result?word=vitamins&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "walk": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=walk&type=2",
+    "ipa": "wɔːk",
+    "source": "https://dict.youdao.com/result?word=walk&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "wanted": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=wanted&type=2",
+    "ipa": "ˈwɑːntɪd",
+    "source": "https://dict.youdao.com/result?word=wanted&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "watched": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=watched&type=2",
+    "ipa": "wɑːtʃt",
+    "source": "https://dict.youdao.com/result?word=watched&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "watches": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=watches&type=2",
+    "ipa": "ˈwɑːtʃɪz",
+    "source": "https://dict.youdao.com/result?word=watches&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "water": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=water&type=2",
+    "ipa": "ˈwɔːtər",
+    "source": "https://dict.youdao.com/result?word=water&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "we": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=we&type=2",
+    "ipa": "wiː; wi",
+    "source": "https://dict.youdao.com/result?word=we&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "well": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=well&type=2",
+    "ipa": "wel",
+    "source": "https://dict.youdao.com/result?word=well&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "what": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=what&type=2",
+    "ipa": "wʌt",
+    "source": "https://dict.youdao.com/result?word=what&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "white": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=white&type=2",
+    "ipa": "waɪt",
+    "source": "https://dict.youdao.com/result?word=white&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "wing": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=wing&type=2",
+    "ipa": "wɪŋ",
+    "source": "https://dict.youdao.com/result?word=wing&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "winter": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=winter&type=2",
+    "ipa": "ˈwɪntər",
+    "source": "https://dict.youdao.com/result?word=winter&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "worked": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=worked&type=2",
+    "ipa": "wɜːrkt",
+    "source": "https://dict.youdao.com/result?word=worked&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "you're": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=you%27re&type=2",
+    "ipa": "jʊr; jər",
+    "source": "https://dict.youdao.com/result?word=you%27re&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16",
+    "ipaSource": "课程词形音标；美音接口 type=2"
+  },
+  "your": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=your&type=2",
+    "ipa": "jʊr; jər",
+    "source": "https://dict.youdao.com/result?word=your&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16"
+  },
+  "foxes": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=foxes&type=2",
+    "ipa": "ˈfɑksɪz",
+    "source": "https://dict.youdao.com/result?word=foxes&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16",
+    "ipaSource": "课程词形音标；美音接口 type=2"
+  },
+  "laughs": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=laughs&type=2",
+    "ipa": "læfs",
+    "source": "https://dict.youdao.com/result?word=laughs&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16",
+    "ipaSource": "课程词形音标；美音接口 type=2"
+  },
+  "cop": {
+    "audio": "https://dict.youdao.com/dictvoice?audio=cop&type=2",
+    "ipa": "kɑp",
+    "source": "https://dict.youdao.com/result?word=cop&lang=en",
+    "provider": "有道词典",
+    "verified": "2026-09-16",
+    "ipaSource": "课程词形音标；美音接口 type=2"
+  }
+}
