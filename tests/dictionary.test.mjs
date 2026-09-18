@@ -1,0 +1,6 @@
+import {gunzipSync} from 'node:zlib';import fs from 'node:fs';import assert from 'node:assert/strict';import {createHash} from 'node:crypto';
+const root=new URL('../public/dictionary/',import.meta.url),read=name=>JSON.parse(gunzipSync(fs.readFileSync(new URL(name+'.gz',root))).toString('utf8'));const audio=read('audio-index.json');
+const lookup=(word,depth=0)=>{assert(depth<10);const s=createHash('sha256').update(word).digest('hex').slice(0,2),e=read(s+'.json')[word];assert(e,word);return e.redirect?lookup(e.redirect,depth+1):e;};
+for(const word of ['at','change','small','meeting','get','slashed','running','seat']){const e=lookup(word);assert(e.text.length>100);assert(/[\u4e00-\u9fff]/.test(e.text));assert(!e.text.includes('<script'));assert(e.audio.length);const [pack,start,length]=audio[e.audio[0]],file=new URL(`us-${String(pack).padStart(3,'0')}.bin`,root);const fd=fs.openSync(file,'r'),b=Buffer.alloc(3);fs.readSync(fd,b,0,3,start);fs.closeSync(fd);assert(b.toString()==='ID3'||b[0]===255);assert(length>100);}
+for(const [pack,start,length] of Object.values(audio)){assert(start>=0&&length>0);assert(start+length<=fs.statSync(new URL(`us-${String(pack).padStart(3,'0')}.bin`,root)).size);}
+console.log('PASS: dictionary Chinese definitions, inflection redirects, MP3 signatures and all audio byte ranges');
